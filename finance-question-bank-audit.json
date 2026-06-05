@@ -1,0 +1,207 @@
+{
+  "generatedAt": "2026-06-05",
+  "totalItems": 773,
+  "answerableItems": 681,
+  "examples": 76,
+  "studyItems": 16,
+  "chapters": [
+    {
+      "file": "第七章  财务会计概论（财务与会计）.pdf",
+      "chapter": "第七章 财务会计概论",
+      "rawBlocks": 15,
+      "rawAnswerableBlocks": 15,
+      "importedItems": 15,
+      "answerableItems": 15,
+      "examples": 0
+    },
+    {
+      "file": "第八章 流动资产（一）（财务与会计）.pdf",
+      "chapter": "第八章 流动资产（一）",
+      "rawBlocks": 38,
+      "rawAnswerableBlocks": 38,
+      "importedItems": 38,
+      "answerableItems": 38,
+      "examples": 0
+    },
+    {
+      "file": "第九章 流动资产（二）（财务与会计）.pdf",
+      "chapter": "第九章 流动资产（二）",
+      "rawBlocks": 68,
+      "rawAnswerableBlocks": 68,
+      "importedItems": 68,
+      "answerableItems": 68,
+      "examples": 0
+    },
+    {
+      "file": "第十章 非流动资产（一）（财务与会计）.pdf",
+      "chapter": "第十章 非流动资产（一）",
+      "rawBlocks": 101,
+      "rawAnswerableBlocks": 101,
+      "importedItems": 101,
+      "answerableItems": 101,
+      "examples": 0
+    },
+    {
+      "file": "第十一章 非流动资产（二）（财务与会计）.pdf",
+      "chapter": "第十一章 非流动资产（二）",
+      "rawBlocks": 63,
+      "rawAnswerableBlocks": 63,
+      "importedItems": 77,
+      "answerableItems": 77,
+      "examples": 0
+    },
+    {
+      "file": "第十二章 流动负债（财务与会计）.pdf",
+      "chapter": "第十二章 流动负债",
+      "rawBlocks": 48,
+      "rawAnswerableBlocks": 48,
+      "importedItems": 54,
+      "answerableItems": 54,
+      "examples": 0
+    },
+    {
+      "file": "第十三章 非流动负债（财务与会计）.pdf",
+      "chapter": "第十三章 非流动负债",
+      "rawBlocks": 101,
+      "rawAnswerableBlocks": 78,
+      "importedItems": 112,
+      "answerableItems": 88,
+      "examples": 18
+    },
+    {
+      "file": "第十四章 所有者权益（财务与会计）.pdf",
+      "chapter": "第十四章 所有者权益",
+      "rawBlocks": 38,
+      "rawAnswerableBlocks": 38,
+      "importedItems": 38,
+      "answerableItems": 38,
+      "examples": 0
+    },
+    {
+      "file": "第十五章 收入、费用、利润和外币交易（财务与会计）.pdf",
+      "chapter": "第十五章 收入、费用、利润和外币交易",
+      "rawBlocks": 111,
+      "rawAnswerableBlocks": 83,
+      "importedItems": 118,
+      "answerableItems": 82,
+      "examples": 28
+    },
+    {
+      "file": "第十六章 所得税（财务与会计）.pdf",
+      "chapter": "第十六章 所得税",
+      "rawBlocks": 52,
+      "rawAnswerableBlocks": 28,
+      "importedItems": 72,
+      "answerableItems": 46,
+      "examples": 24
+    },
+    {
+      "file": "第十七章 会计调整（财务与会计）.pdf",
+      "chapter": "第十七章 会计调整",
+      "rawBlocks": 36,
+      "rawAnswerableBlocks": 30,
+      "importedItems": 36,
+      "answerableItems": 30,
+      "examples": 6
+    },
+    {
+      "file": "第十八章 财务报告（财务与会计）.pdf",
+      "chapter": "第十八章 财务报告",
+      "rawBlocks": 33,
+      "rawAnswerableBlocks": 33,
+      "importedItems": 33,
+      "answerableItems": 33,
+      "examples": 0
+    },
+    {
+      "file": "第十九章 企业破产清算会计（财务与会计）.pdf",
+      "chapter": "第十九章 企业破产清算会计",
+      "rawBlocks": 11,
+      "rawAnswerableBlocks": 11,
+      "importedItems": 11,
+      "answerableItems": 11,
+      "examples": 0
+    }
+  ],
+  "issues": [
+    {
+      "level": "warn",
+      "chapter": "第十一章 非流动资产（二）",
+      "number": "48",
+      "reason": "题号缺失",
+      "detail": "1-63"
+    },
+    {
+      "level": "warn",
+      "chapter": "第十一章 非流动资产（二）",
+      "number": "49",
+      "reason": "题号缺失",
+      "detail": "1-63"
+    },
+    {
+      "level": "warn",
+      "chapter": "第十一章 非流动资产（二）",
+      "number": "53",
+      "reason": "题号缺失",
+      "detail": "1-63"
+    },
+    {
+      "level": "warn",
+      "chapter": "第十一章 非流动资产（二）",
+      "number": "54",
+      "reason": "题号缺失",
+      "detail": "1-63"
+    },
+    {
+      "level": "warn",
+      "chapter": "第十二章 流动负债",
+      "number": "41",
+      "reason": "题号缺失",
+      "detail": "1-48"
+    },
+    {
+      "level": "warn",
+      "chapter": "第十二章 流动负债",
+      "number": "42",
+      "reason": "题号缺失",
+      "detail": "1-48"
+    },
+    {
+      "level": "warn",
+      "chapter": "第十三章 非流动负债",
+      "number": "21",
+      "reason": "题号缺失",
+      "detail": "1-101"
+    },
+    {
+      "level": "warn",
+      "chapter": "第十三章 非流动负债",
+      "number": "71",
+      "reason": "题号缺失",
+      "detail": "1-101"
+    },
+    {
+      "level": "warn",
+      "chapter": "第十三章 非流动负债",
+      "number": "72",
+      "reason": "题号缺失",
+      "detail": "1-101"
+    },
+    {
+      "level": "warn",
+      "chapter": "第十五章 收入、费用、利润和外币交易",
+      "number": "35",
+      "reason": "题号缺失",
+      "detail": "1-111"
+    },
+    {
+      "level": "warn",
+      "chapter": "第十五章 收入、费用、利润和外币交易",
+      "number": "62",
+      "reason": "题号缺失",
+      "detail": "1-111"
+    }
+  ],
+  "passed": true,
+  "duplicateSkipped": 0
+}
