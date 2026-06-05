@@ -1,7 +1,7 @@
 {
   "generatedAt": "2026-06-05",
-  "totalItems": 758,
-  "answerableItems": 666,
+  "totalItems": 773,
+  "answerableItems": 681,
   "examples": 76,
   "studyItems": 16,
   "chapters": [
@@ -126,20 +126,6 @@
   "issues": [
     {
       "level": "warn",
-      "chapter": "第九章 流动资产（二）",
-      "number": "2",
-      "reason": "题号缺失",
-      "detail": "1-68"
-    },
-    {
-      "level": "warn",
-      "chapter": "第九章 流动资产（二）",
-      "number": "20",
-      "reason": "题号缺失",
-      "detail": "1-68"
-    },
-    {
-      "level": "warn",
       "chapter": "第十一章 非流动资产（二）",
       "number": "48",
       "reason": "题号缺失",
@@ -169,20 +155,6 @@
     {
       "level": "warn",
       "chapter": "第十二章 流动负债",
-      "number": "3",
-      "reason": "题号缺失",
-      "detail": "1-48"
-    },
-    {
-      "level": "warn",
-      "chapter": "第十二章 流动负债",
-      "number": "22",
-      "reason": "题号缺失",
-      "detail": "1-48"
-    },
-    {
-      "level": "warn",
-      "chapter": "第十二章 流动负债",
       "number": "41",
       "reason": "题号缺失",
       "detail": "1-48"
@@ -191,20 +163,6 @@
       "level": "warn",
       "chapter": "第十二章 流动负债",
       "number": "42",
-      "reason": "题号缺失",
-      "detail": "1-48"
-    },
-    {
-      "level": "warn",
-      "chapter": "第十二章 流动负债",
-      "number": "46",
-      "reason": "题号缺失",
-      "detail": "1-48"
-    },
-    {
-      "level": "warn",
-      "chapter": "第十二章 流动负债",
-      "number": "47",
       "reason": "题号缺失",
       "detail": "1-48"
     },
@@ -231,22 +189,8 @@
     },
     {
       "level": "warn",
-      "chapter": "第十四章 所有者权益",
-      "number": "27",
-      "reason": "题号缺失",
-      "detail": "1-38"
-    },
-    {
-      "level": "warn",
       "chapter": "第十五章 收入、费用、利润和外币交易",
       "number": "35",
-      "reason": "题号缺失",
-      "detail": "1-111"
-    },
-    {
-      "level": "warn",
-      "chapter": "第十五章 收入、费用、利润和外币交易",
-      "number": "43",
       "reason": "题号缺失",
       "detail": "1-111"
     },
@@ -256,144 +200,121 @@
       "number": "62",
       "reason": "题号缺失",
       "detail": "1-111"
-    },
-    {
-      "level": "warn",
-      "chapter": "第十五章 收入、费用、利润和外币交易",
-      "number": "63",
-      "reason": "题号缺失",
-      "detail": "1-111"
-    },
-    {
-      "level": "warn",
-      "chapter": "第十五章 收入、费用、利润和外币交易",
-      "number": "73",
-      "reason": "题号缺失",
-      "detail": "1-111"
-    },
-    {
-      "level": "warn",
-      "chapter": "第十七章 会计调整",
-      "number": "2",
-      "reason": "题号缺失",
-      "detail": "1-36"
-    },
-    {
-      "level": "warn",
-      "chapter": "第十七章 会计调整",
-      "number": "5",
-      "reason": "题号缺失",
-      "detail": "1-36"
-    },
-    {
-      "level": "warn",
-      "chapter": "第十七章 会计调整",
-      "number": "26",
-      "reason": "题号缺失",
-      "detail": "1-36"
-    },
-    {
-      "level": "warn",
-      "chapter": "第十八章 财务报告",
-      "number": "10",
-      "reason": "题号缺失",
-      "detail": "1-32"
     }
   ],
-  "passed": true,
-  "duplicateSkipped": 0,
-  "duplicateRemovedByStem": 15,
-  "duplicateRemovedSamples": [
+  "duplicateStemGroups": [
     {
       "kept": "1",
-      "removed": "2",
+      "removed": "",
+      "duplicate": "2",
       "chapter": "第九章 流动资产（二）",
       "stem": "下列项目中不属于存货核算范围的是（ ）。"
     },
     {
       "kept": "10",
-      "removed": "20",
+      "removed": "",
+      "duplicate": "20",
       "chapter": "第九章 流动资产（二）",
       "stem": "下列各项不应计入存货成本的是（ ）。"
     },
     {
       "kept": "2",
-      "removed": "3",
+      "removed": "",
+      "duplicate": "3",
       "chapter": "第十二章 流动负债",
       "stem": "下列交易或事项，不通过“其他应付款”科目核算的是（ ）。"
     },
     {
       "kept": "19",
-      "removed": "22",
+      "removed": "",
+      "duplicate": "22",
       "chapter": "第十二章 流动负债",
       "stem": "委托企业支付的下列各项税费中，应计入委托加工物资成本的有（ ）。"
     },
     {
       "kept": "45",
-      "removed": "46",
+      "removed": "",
+      "duplicate": "46",
       "chapter": "第十二章 流动负债",
       "stem": "下列关于金融负债的表述中，错误的是（ ）。"
     },
     {
       "kept": "45",
-      "removed": "47",
+      "removed": "",
+      "duplicate": "47",
       "chapter": "第十二章 流动负债",
       "stem": "下列关于金融负债的表述中，错误的是（ ）。"
     },
     {
       "kept": "26",
-      "removed": "27",
+      "removed": "",
+      "duplicate": "27",
       "chapter": "第十四章 所有者权益",
       "stem": "企业弥补经营亏损的方式有（ ）。"
     },
     {
       "kept": "45",
-      "removed": "15.43",
+      "removed": "",
+      "duplicate": "15.43",
       "chapter": "第十五章 收入、费用、利润和外币交易",
       "stem": "甲公司 2020 年度产品销售收入 6 000 万元。根据产品质量保证合同 条款规定，产品售出 1 年内发生质量问题的，公司将负责免费修理。根据以往经验，出现较小 的质量问题发生的修理费用预计为销售收入的 3%；出现较大的质量问题发生的维修"
     },
     {
       "kept": "4",
-      "removed": "15.63",
+      "removed": "",
+      "duplicate": "15.63",
       "chapter": "第十五章 收入、费用、利润和外币交易",
       "stem": "企业筹建期间发生的不符合资本化条件的借款费用应计入（ ）。"
     },
     {
       "kept": "15.71",
-      "removed": "15.73",
+      "removed": "",
+      "duplicate": "15.73",
       "chapter": "第十五章 收入、费用、利润和外币交易",
       "stem": "企业发生的下列交易或事项中，不影响发生当期营业利润的是（ ）。"
     },
     {
       "kept": "17.1",
-      "removed": "17.2",
+      "removed": "",
+      "duplicate": "17.2",
       "chapter": "第十七章 会计调整",
       "stem": "下列事项中，属于会计政策变更的是（ ）。"
     },
     {
       "kept": "17.4",
-      "removed": "17.5",
+      "removed": "",
+      "duplicate": "17.5",
       "chapter": "第十七章 会计调整",
       "stem": "下列各项中，属于企业会计政策变更的是（ ）。"
     },
     {
       "kept": "17.25",
-      "removed": "17.26",
+      "removed": "",
+      "duplicate": "17.26",
       "chapter": "第十七章 会计调整",
       "stem": "下列资产负债表日后事项中，属于非调整事项的有（ ）。"
     },
     {
       "kept": "15.79",
-      "removed": "18.10",
+      "removed": "",
+      "duplicate": "18.10",
       "chapter": "第十八章 财务报告",
       "stem": "下列各项中，影响企业当期营业利润的有（ ）。"
     },
     {
       "kept": "18.32",
-      "removed": "18.33",
+      "removed": "",
+      "duplicate": "18.33",
       "chapter": "第十八章 财务报告",
       "stem": "企业与关联方发生关联方交易的，在财务报表附注中披露的交易要素 至少应包括（ ）。"
     }
   ],
+  "missingExpectedNumbers": [],
+  "unexpectedNumbers": [],
+  "passed": true,
+  "duplicateSkipped": 0,
+  "duplicateRemovedByStem": 0,
+  "duplicateRemovedSamples": [],
+  "duplicateDetectedByStem": 15,
   "misplacedFixed": 74
 }
