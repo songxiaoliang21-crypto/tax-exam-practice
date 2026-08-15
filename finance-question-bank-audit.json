@@ -1,15 +1,12 @@
 {
-  "generatedAt": "2026-08-15T04:58:47.302857+00:00",
-  "version": "finance-2026-08-15-add-ch1-6",
-  "sourceDir": "E:\\税务师题库\\财务与会计题库\\财务与会计题库第二批",
-  "previousVersion": "finance-2026-08-15-add-ch1-6",
-  "existingFileTotalBeforeMerge": 1103,
-  "previousTotal": 773,
-  "totalItems": 1103,
-  "answerableItems": 954,
-  "examples": 131,
-  "studyItems": 18,
-  "chaptersAdded": [
+  "generatedAt": "2026-08-15T05:25:11.609855+00:00",
+  "version": "tax-practice-2026-08-15-ch1-9",
+  "sourceDir": "E:\\税务师题库\\涉税服务实务题库",
+  "totalItems": 1393,
+  "answerableItems": 1036,
+  "examples": 226,
+  "studyItems": 131,
+  "chapters": [
     {
       "chapter": "第一章 财务管理概论和基础",
       "sourceFile": "第一章 财务管理概论和基础（财务与会计）.pdf",
@@ -93,1759 +90,1877 @@
       "studyItems": 0,
       "caseParents": 2,
       "caseChildren": 6
-    }
-  ],
-  "rawTotalCh1To6": 331,
-  "actualAdded": 330,
-  "duplicateSkipped": 1,
-  "skippedNewDuplicates": [
+    },
     {
       "chapter": "第一章 财务管理概论和基础",
-      "number": "1.70",
-      "duplicateOf": "1.69",
-      "reason": "题干、选项、答案、解析完全一致"
+      "sourceFile": "第一章 财务管理概论和基础（财务与会计）.pdf",
+      "rawCount": 70,
+      "rawBlocks": 70,
+      "importedCount": 69,
+      "duplicateCount": 1,
+      "abnormalCount": 0,
+      "answerableItems": 60,
+      "examples": 9,
+      "studyItems": 1,
+      "caseParents": 0,
+      "caseChildren": 0
+    },
+    {
+      "chapter": "第二章 财务预测和财务预算",
+      "sourceFile": "第二章 财务预测和财务预算（财务与会计）.pdf",
+      "rawCount": 57,
+      "rawBlocks": 48,
+      "importedCount": 57,
+      "duplicateCount": 0,
+      "abnormalCount": 0,
+      "answerableItems": 48,
+      "examples": 8,
+      "studyItems": 1,
+      "caseParents": 3,
+      "caseChildren": 12
+    },
+    {
+      "chapter": "第三章 筹资与股利分配管理",
+      "sourceFile": "第三章 筹资与股利分配管理（财务与会计）.pdf",
+      "rawCount": 68,
+      "rawBlocks": 63,
+      "importedCount": 68,
+      "duplicateCount": 0,
+      "abnormalCount": 0,
+      "answerableItems": 54,
+      "examples": 14,
+      "studyItems": 0,
+      "caseParents": 3,
+      "caseChildren": 8
+    },
+    {
+      "chapter": "第四章 投资管理",
+      "sourceFile": "第四章 投资管理（财务与会计）.pdf",
+      "rawCount": 57,
+      "rawBlocks": 51,
+      "importedCount": 57,
+      "duplicateCount": 0,
+      "abnormalCount": 0,
+      "answerableItems": 42,
+      "examples": 15,
+      "studyItems": 0,
+      "caseParents": 2,
+      "caseChildren": 8
+    },
+    {
+      "chapter": "第五章 营运资金管理",
+      "sourceFile": "第五章 营运资金管理（财务与会计）.pdf",
+      "rawCount": 38,
+      "rawBlocks": 38,
+      "importedCount": 38,
+      "duplicateCount": 0,
+      "abnormalCount": 0,
+      "answerableItems": 31,
+      "examples": 7,
+      "studyItems": 0,
+      "caseParents": 0,
+      "caseChildren": 0
+    },
+    {
+      "chapter": "第六章 财务分析与评价",
+      "sourceFile": "第六章 财务分析与评价（财务与会计）.pdf",
+      "rawCount": 41,
+      "rawBlocks": 37,
+      "importedCount": 41,
+      "duplicateCount": 0,
+      "abnormalCount": 0,
+      "answerableItems": 39,
+      "examples": 2,
+      "studyItems": 0,
+      "caseParents": 2,
+      "caseChildren": 6
+    },
+    {
+      "chapter": "第一章 财务管理概论和基础",
+      "sourceFile": "第一章 财务管理概论和基础（财务与会计）.pdf",
+      "rawCount": 70,
+      "rawBlocks": 70,
+      "importedCount": 70,
+      "duplicateCount": 0,
+      "abnormalCount": 0,
+      "answerableItems": 60,
+      "examples": 9,
+      "studyItems": 1,
+      "caseParents": 0,
+      "caseChildren": 0
+    },
+    {
+      "chapter": "第二章 财务预测和财务预算",
+      "sourceFile": "第二章 财务预测和财务预算（财务与会计）.pdf",
+      "rawCount": 57,
+      "rawBlocks": 48,
+      "importedCount": 57,
+      "duplicateCount": 0,
+      "abnormalCount": 0,
+      "answerableItems": 48,
+      "examples": 8,
+      "studyItems": 1,
+      "caseParents": 3,
+      "caseChildren": 12
+    },
+    {
+      "chapter": "第三章 筹资与股利分配管理",
+      "sourceFile": "第三章 筹资与股利分配管理（财务与会计）.pdf",
+      "rawCount": 68,
+      "rawBlocks": 63,
+      "importedCount": 68,
+      "duplicateCount": 0,
+      "abnormalCount": 0,
+      "answerableItems": 54,
+      "examples": 14,
+      "studyItems": 0,
+      "caseParents": 3,
+      "caseChildren": 8
+    },
+    {
+      "chapter": "第四章 投资管理",
+      "sourceFile": "第四章 投资管理（财务与会计）.pdf",
+      "rawCount": 57,
+      "rawBlocks": 51,
+      "importedCount": 57,
+      "duplicateCount": 0,
+      "abnormalCount": 0,
+      "answerableItems": 42,
+      "examples": 15,
+      "studyItems": 0,
+      "caseParents": 2,
+      "caseChildren": 8
+    },
+    {
+      "chapter": "第五章 营运资金管理",
+      "sourceFile": "第五章 营运资金管理（财务与会计）.pdf",
+      "rawCount": 38,
+      "rawBlocks": 38,
+      "importedCount": 38,
+      "duplicateCount": 0,
+      "abnormalCount": 0,
+      "answerableItems": 31,
+      "examples": 7,
+      "studyItems": 0,
+      "caseParents": 0,
+      "caseChildren": 0
+    },
+    {
+      "chapter": "第六章 财务分析与评价",
+      "sourceFile": "第六章 财务分析与评价（财务与会计）.pdf",
+      "rawCount": 41,
+      "rawBlocks": 37,
+      "importedCount": 41,
+      "duplicateCount": 0,
+      "abnormalCount": 0,
+      "answerableItems": 39,
+      "examples": 2,
+      "studyItems": 0,
+      "caseParents": 2,
+      "caseChildren": 6
+    },
+    {
+      "file": "第七章  财务会计概论（财务与会计）.pdf",
+      "chapter": "第七章 财务会计概论",
+      "rawBlocks": 15,
+      "rawAnswerableBlocks": 15,
+      "importedItems": 15,
+      "answerableItems": 15,
+      "examples": 0
+    },
+    {
+      "file": "第八章 流动资产（一）（财务与会计）.pdf",
+      "chapter": "第八章 流动资产（一）",
+      "rawBlocks": 38,
+      "rawAnswerableBlocks": 38,
+      "importedItems": 38,
+      "answerableItems": 38,
+      "examples": 0
+    },
+    {
+      "file": "第九章 流动资产（二）（财务与会计）.pdf",
+      "chapter": "第九章 流动资产（二）",
+      "rawBlocks": 68,
+      "rawAnswerableBlocks": 68,
+      "importedItems": 68,
+      "answerableItems": 68,
+      "examples": 0
+    },
+    {
+      "file": "第十章 非流动资产（一）（财务与会计）.pdf",
+      "chapter": "第十章 非流动资产（一）",
+      "rawBlocks": 101,
+      "rawAnswerableBlocks": 101,
+      "importedItems": 101,
+      "answerableItems": 101,
+      "examples": 0
+    },
+    {
+      "file": "第十一章 非流动资产（二）（财务与会计）.pdf",
+      "chapter": "第十一章 非流动资产（二）",
+      "rawBlocks": 63,
+      "rawAnswerableBlocks": 63,
+      "importedItems": 77,
+      "answerableItems": 77,
+      "examples": 0
+    },
+    {
+      "file": "第十二章 流动负债（财务与会计）.pdf",
+      "chapter": "第十二章 流动负债",
+      "rawBlocks": 48,
+      "rawAnswerableBlocks": 48,
+      "importedItems": 54,
+      "answerableItems": 54,
+      "examples": 0
+    },
+    {
+      "file": "第十三章 非流动负债（财务与会计）.pdf",
+      "chapter": "第十三章 非流动负债",
+      "rawBlocks": 101,
+      "rawAnswerableBlocks": 78,
+      "importedItems": 112,
+      "answerableItems": 88,
+      "examples": 18
+    },
+    {
+      "file": "第十四章 所有者权益（财务与会计）.pdf",
+      "chapter": "第十四章 所有者权益",
+      "rawBlocks": 38,
+      "rawAnswerableBlocks": 38,
+      "importedItems": 38,
+      "answerableItems": 38,
+      "examples": 0
+    },
+    {
+      "file": "第十五章 收入、费用、利润和外币交易（财务与会计）.pdf",
+      "chapter": "第十五章 收入、费用、利润和外币交易",
+      "rawBlocks": 111,
+      "rawAnswerableBlocks": 83,
+      "importedItems": 118,
+      "answerableItems": 82,
+      "examples": 28
+    },
+    {
+      "file": "第十六章 所得税（财务与会计）.pdf",
+      "chapter": "第十六章 所得税",
+      "rawBlocks": 52,
+      "rawAnswerableBlocks": 28,
+      "importedItems": 72,
+      "answerableItems": 46,
+      "examples": 24
+    },
+    {
+      "file": "第十七章 会计调整（财务与会计）.pdf",
+      "chapter": "第十七章 会计调整",
+      "rawBlocks": 36,
+      "rawAnswerableBlocks": 30,
+      "importedItems": 36,
+      "answerableItems": 30,
+      "examples": 6
+    },
+    {
+      "file": "第十八章 财务报告（财务与会计）.pdf",
+      "chapter": "第十八章 财务报告",
+      "rawBlocks": 33,
+      "rawAnswerableBlocks": 33,
+      "importedItems": 33,
+      "answerableItems": 33,
+      "examples": 0
+    },
+    {
+      "file": "第十九章 企业破产清算会计（财务与会计）.pdf",
+      "chapter": "第十九章 企业破产清算会计",
+      "rawBlocks": 11,
+      "rawAnswerableBlocks": 11,
+      "importedItems": 11,
+      "answerableItems": 11,
+      "examples": 0
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第一章 导论",
+      "rawBlocks": 12,
+      "importedItems": 12,
+      "answerableItems": 12,
+      "examples": 0,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 12,
+          "answerableItems": 12,
+          "examples": 0,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第二章 税收征收管理",
+      "rawBlocks": 21,
+      "importedItems": 21,
+      "answerableItems": 15,
+      "examples": 2,
+      "studyItems": 4,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 21,
+          "answerableItems": 15,
+          "examples": 2,
+          "studyItems": 4
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第三章 涉税专业服务程序、方法和内容",
+      "rawBlocks": 210,
+      "importedItems": 210,
+      "answerableItems": 17,
+      "examples": 80,
+      "studyItems": 113,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 41,
+          "answerableItems": 5,
+          "examples": 5,
+          "studyItems": 31
+        },
+        {
+          "section": "第三节 货物劳务税纳税审核方法",
+          "rawItems": 6,
+          "answerableItems": 2,
+          "examples": 1,
+          "studyItems": 3
+        },
+        {
+          "section": "第四节 所得税纳税审核方法",
+          "rawItems": 143,
+          "answerableItems": 6,
+          "examples": 74,
+          "studyItems": 63
+        },
+        {
+          "section": "第五节 其他税种纳税审核方法",
+          "rawItems": 20,
+          "answerableItems": 4,
+          "examples": 0,
+          "studyItems": 16
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第四章 涉税会计核算",
+      "rawBlocks": 18,
+      "importedItems": 18,
+      "answerableItems": 13,
+      "examples": 5,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 18,
+          "answerableItems": 13,
+          "examples": 5,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第五章 纳税申报代办服务",
+      "rawBlocks": 4,
+      "importedItems": 4,
+      "answerableItems": 2,
+      "examples": 0,
+      "studyItems": 2,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 4,
+          "answerableItems": 2,
+          "examples": 0,
+          "studyItems": 2
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第六章 涉税鉴证与纳税情况审查服务",
+      "rawBlocks": 2,
+      "importedItems": 2,
+      "answerableItems": 2,
+      "examples": 0,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 2,
+          "answerableItems": 2,
+          "examples": 0,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第七章 税务咨询服务",
+      "rawBlocks": 3,
+      "importedItems": 3,
+      "answerableItems": 1,
+      "examples": 2,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 3,
+          "answerableItems": 1,
+          "examples": 2,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第八章 其他税务事项代办服务",
+      "rawBlocks": 3,
+      "importedItems": 3,
+      "answerableItems": 0,
+      "examples": 3,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 3,
+          "answerableItems": 0,
+          "examples": 3,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第九章 其他税务代理",
+      "rawBlocks": 9,
+      "importedItems": 9,
+      "answerableItems": 6,
+      "examples": 3,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 9,
+          "answerableItems": 6,
+          "examples": 3,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第一章 导论",
+      "rawBlocks": 12,
+      "importedItems": 12,
+      "answerableItems": 12,
+      "examples": 0,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 12,
+          "answerableItems": 12,
+          "examples": 0,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第二章 税收征收管理",
+      "rawBlocks": 22,
+      "importedItems": 22,
+      "answerableItems": 15,
+      "examples": 2,
+      "studyItems": 5,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 22,
+          "answerableItems": 15,
+          "examples": 2,
+          "studyItems": 5
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第三章 涉税专业服务程序、方法和内容",
+      "rawBlocks": 287,
+      "importedItems": 287,
+      "answerableItems": 31,
+      "examples": 109,
+      "studyItems": 147,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 1,
+          "answerableItems": 1,
+          "examples": 0,
+          "studyItems": 0
+        },
+        {
+          "section": "第三节 货物劳务税纳税审核方法",
+          "rawItems": 59,
+          "answerableItems": 7,
+          "examples": 6,
+          "studyItems": 46
+        },
+        {
+          "section": "第四节 所得税纳税审核方法",
+          "rawItems": 204,
+          "answerableItems": 19,
+          "examples": 103,
+          "studyItems": 82
+        },
+        {
+          "section": "第五节 其他税种纳税审核方法",
+          "rawItems": 23,
+          "answerableItems": 4,
+          "examples": 0,
+          "studyItems": 19
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第四章 涉税会计核算",
+      "rawBlocks": 18,
+      "importedItems": 18,
+      "answerableItems": 13,
+      "examples": 5,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 18,
+          "answerableItems": 13,
+          "examples": 5,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第五章 纳税申报代办服务",
+      "rawBlocks": 5,
+      "importedItems": 5,
+      "answerableItems": 2,
+      "examples": 0,
+      "studyItems": 3,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 5,
+          "answerableItems": 2,
+          "examples": 0,
+          "studyItems": 3
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第六章 涉税鉴证与纳税情况审查服务",
+      "rawBlocks": 2,
+      "importedItems": 2,
+      "answerableItems": 2,
+      "examples": 0,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 2,
+          "answerableItems": 2,
+          "examples": 0,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第七章 税务咨询服务",
+      "rawBlocks": 3,
+      "importedItems": 3,
+      "answerableItems": 1,
+      "examples": 2,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 3,
+          "answerableItems": 1,
+          "examples": 2,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第八章 其他税务事项代办服务",
+      "rawBlocks": 3,
+      "importedItems": 3,
+      "answerableItems": 0,
+      "examples": 3,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 3,
+          "answerableItems": 0,
+          "examples": 3,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第九章 其他税务代理",
+      "rawBlocks": 9,
+      "importedItems": 9,
+      "answerableItems": 6,
+      "examples": 3,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 9,
+          "answerableItems": 6,
+          "examples": 3,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第一章 导论",
+      "rawBlocks": 12,
+      "importedItems": 12,
+      "answerableItems": 12,
+      "examples": 0,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 12,
+          "answerableItems": 12,
+          "examples": 0,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第二章 税收征收管理",
+      "rawBlocks": 22,
+      "importedItems": 22,
+      "answerableItems": 15,
+      "examples": 2,
+      "studyItems": 5,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 22,
+          "answerableItems": 15,
+          "examples": 2,
+          "studyItems": 5
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第三章 涉税专业服务程序、方法和内容",
+      "rawBlocks": 287,
+      "importedItems": 287,
+      "answerableItems": 31,
+      "examples": 109,
+      "studyItems": 147,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 1,
+          "answerableItems": 1,
+          "examples": 0,
+          "studyItems": 0
+        },
+        {
+          "section": "第三节 货物劳务税纳税审核方法",
+          "rawItems": 59,
+          "answerableItems": 7,
+          "examples": 6,
+          "studyItems": 46
+        },
+        {
+          "section": "第四节 所得税纳税审核方法",
+          "rawItems": 204,
+          "answerableItems": 19,
+          "examples": 103,
+          "studyItems": 82
+        },
+        {
+          "section": "第五节 其他税种纳税审核方法",
+          "rawItems": 23,
+          "answerableItems": 4,
+          "examples": 0,
+          "studyItems": 19
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第四章 涉税会计核算",
+      "rawBlocks": 18,
+      "importedItems": 18,
+      "answerableItems": 13,
+      "examples": 5,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 18,
+          "answerableItems": 13,
+          "examples": 5,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第五章 纳税申报代办服务",
+      "rawBlocks": 5,
+      "importedItems": 5,
+      "answerableItems": 2,
+      "examples": 0,
+      "studyItems": 3,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 5,
+          "answerableItems": 2,
+          "examples": 0,
+          "studyItems": 3
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第六章 涉税鉴证与纳税情况审查服务",
+      "rawBlocks": 2,
+      "importedItems": 2,
+      "answerableItems": 2,
+      "examples": 0,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 2,
+          "answerableItems": 2,
+          "examples": 0,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第七章 税务咨询服务",
+      "rawBlocks": 3,
+      "importedItems": 3,
+      "answerableItems": 1,
+      "examples": 2,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 3,
+          "answerableItems": 1,
+          "examples": 2,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第八章 其他税务事项代办服务",
+      "rawBlocks": 3,
+      "importedItems": 3,
+      "answerableItems": 0,
+      "examples": 3,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 3,
+          "answerableItems": 0,
+          "examples": 3,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第九章 其他税务代理",
+      "rawBlocks": 9,
+      "importedItems": 9,
+      "answerableItems": 6,
+      "examples": 3,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 9,
+          "answerableItems": 6,
+          "examples": 3,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第一章 导论",
+      "rawBlocks": 12,
+      "importedItems": 12,
+      "answerableItems": 12,
+      "examples": 0,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 12,
+          "answerableItems": 12,
+          "examples": 0,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第二章 税收征收管理",
+      "rawBlocks": 22,
+      "importedItems": 22,
+      "answerableItems": 15,
+      "examples": 2,
+      "studyItems": 5,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 22,
+          "answerableItems": 15,
+          "examples": 2,
+          "studyItems": 5
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第三章 涉税专业服务程序、方法和内容",
+      "rawBlocks": 287,
+      "importedItems": 287,
+      "answerableItems": 31,
+      "examples": 109,
+      "studyItems": 147,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 1,
+          "answerableItems": 1,
+          "examples": 0,
+          "studyItems": 0
+        },
+        {
+          "section": "第三节 货物劳务税纳税审核方法",
+          "rawItems": 59,
+          "answerableItems": 7,
+          "examples": 6,
+          "studyItems": 46
+        },
+        {
+          "section": "第四节 所得税纳税审核方法",
+          "rawItems": 204,
+          "answerableItems": 19,
+          "examples": 103,
+          "studyItems": 82
+        },
+        {
+          "section": "第五节 其他税种纳税审核方法",
+          "rawItems": 23,
+          "answerableItems": 4,
+          "examples": 0,
+          "studyItems": 19
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第四章 涉税会计核算",
+      "rawBlocks": 18,
+      "importedItems": 18,
+      "answerableItems": 13,
+      "examples": 5,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 18,
+          "answerableItems": 13,
+          "examples": 5,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第五章 纳税申报代办服务",
+      "rawBlocks": 5,
+      "importedItems": 5,
+      "answerableItems": 2,
+      "examples": 0,
+      "studyItems": 3,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 5,
+          "answerableItems": 2,
+          "examples": 0,
+          "studyItems": 3
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第六章 涉税鉴证与纳税情况审查服务",
+      "rawBlocks": 2,
+      "importedItems": 2,
+      "answerableItems": 2,
+      "examples": 0,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 2,
+          "answerableItems": 2,
+          "examples": 0,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第七章 税务咨询服务",
+      "rawBlocks": 3,
+      "importedItems": 3,
+      "answerableItems": 1,
+      "examples": 2,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 3,
+          "answerableItems": 1,
+          "examples": 2,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第八章 其他税务事项代办服务",
+      "rawBlocks": 3,
+      "importedItems": 3,
+      "answerableItems": 0,
+      "examples": 3,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 3,
+          "answerableItems": 0,
+          "examples": 3,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第九章 其他税务代理",
+      "rawBlocks": 9,
+      "importedItems": 9,
+      "answerableItems": 6,
+      "examples": 3,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 9,
+          "answerableItems": 6,
+          "examples": 3,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第一章 导论",
+      "rawBlocks": 12,
+      "importedItems": 12,
+      "answerableItems": 12,
+      "examples": 0,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 12,
+          "answerableItems": 12,
+          "examples": 0,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第二章 税收征收管理",
+      "rawBlocks": 21,
+      "importedItems": 21,
+      "answerableItems": 15,
+      "examples": 2,
+      "studyItems": 4,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 21,
+          "answerableItems": 15,
+          "examples": 2,
+          "studyItems": 4
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第三章 涉税专业服务程序、方法和内容",
+      "rawBlocks": 222,
+      "importedItems": 222,
+      "answerableItems": 31,
+      "examples": 80,
+      "studyItems": 111,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 1,
+          "answerableItems": 1,
+          "examples": 0,
+          "studyItems": 0
+        },
+        {
+          "section": "第三节 货物劳务税纳税审核方法",
+          "rawItems": 54,
+          "answerableItems": 7,
+          "examples": 6,
+          "studyItems": 41
+        },
+        {
+          "section": "第四节 所得税纳税审核方法",
+          "rawItems": 145,
+          "answerableItems": 19,
+          "examples": 74,
+          "studyItems": 52
+        },
+        {
+          "section": "第五节 其他税种纳税审核方法",
+          "rawItems": 22,
+          "answerableItems": 4,
+          "examples": 0,
+          "studyItems": 18
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第四章 涉税会计核算",
+      "rawBlocks": 18,
+      "importedItems": 18,
+      "answerableItems": 13,
+      "examples": 5,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 18,
+          "answerableItems": 13,
+          "examples": 5,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第五章 纳税申报代办服务",
+      "rawBlocks": 4,
+      "importedItems": 4,
+      "answerableItems": 2,
+      "examples": 0,
+      "studyItems": 2,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 4,
+          "answerableItems": 2,
+          "examples": 0,
+          "studyItems": 2
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第六章 涉税鉴证与纳税情况审查服务",
+      "rawBlocks": 2,
+      "importedItems": 2,
+      "answerableItems": 2,
+      "examples": 0,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 2,
+          "answerableItems": 2,
+          "examples": 0,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第七章 税务咨询服务",
+      "rawBlocks": 3,
+      "importedItems": 3,
+      "answerableItems": 1,
+      "examples": 2,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 3,
+          "answerableItems": 1,
+          "examples": 2,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第八章 其他税务事项代办服务",
+      "rawBlocks": 3,
+      "importedItems": 3,
+      "answerableItems": 0,
+      "examples": 3,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 3,
+          "answerableItems": 0,
+          "examples": 3,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第九章 其他税务代理",
+      "rawBlocks": 9,
+      "importedItems": 9,
+      "answerableItems": 6,
+      "examples": 3,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 9,
+          "answerableItems": 6,
+          "examples": 3,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第一章 导论",
+      "rawBlocks": 12,
+      "importedItems": 12,
+      "answerableItems": 12,
+      "examples": 0,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 12,
+          "answerableItems": 12,
+          "examples": 0,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第二章 税收征收管理",
+      "rawBlocks": 21,
+      "importedItems": 21,
+      "answerableItems": 15,
+      "examples": 2,
+      "studyItems": 4,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 21,
+          "answerableItems": 15,
+          "examples": 2,
+          "studyItems": 4
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第三章 涉税专业服务程序、方法和内容",
+      "rawBlocks": 222,
+      "importedItems": 222,
+      "answerableItems": 31,
+      "examples": 80,
+      "studyItems": 111,
+      "sections": [
+        {
+          "section": "本章综合 · 题组1",
+          "rawItems": 1,
+          "answerableItems": 1,
+          "examples": 0,
+          "studyItems": 0
+        },
+        {
+          "section": "第三节 货物劳务税纳税审核方法 · 题组1",
+          "rawItems": 48,
+          "answerableItems": 5,
+          "examples": 5,
+          "studyItems": 38
+        },
+        {
+          "section": "第三节 货物劳务税纳税审核方法 · 题组2",
+          "rawItems": 6,
+          "answerableItems": 2,
+          "examples": 1,
+          "studyItems": 3
+        },
+        {
+          "section": "第四节 所得税纳税审核方法 · 题组1",
+          "rawItems": 97,
+          "answerableItems": 12,
+          "examples": 46,
+          "studyItems": 39
+        },
+        {
+          "section": "第四节 所得税纳税审核方法 · 题组2",
+          "rawItems": 48,
+          "answerableItems": 7,
+          "examples": 28,
+          "studyItems": 13
+        },
+        {
+          "section": "第五节 其他税种纳税审核方法 · 题组1",
+          "rawItems": 22,
+          "answerableItems": 4,
+          "examples": 0,
+          "studyItems": 18
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第四章 涉税会计核算",
+      "rawBlocks": 18,
+      "importedItems": 18,
+      "answerableItems": 13,
+      "examples": 5,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 18,
+          "answerableItems": 13,
+          "examples": 5,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第五章 纳税申报代办服务",
+      "rawBlocks": 4,
+      "importedItems": 4,
+      "answerableItems": 2,
+      "examples": 0,
+      "studyItems": 2,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 4,
+          "answerableItems": 2,
+          "examples": 0,
+          "studyItems": 2
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第六章 涉税鉴证与纳税情况审查服务",
+      "rawBlocks": 2,
+      "importedItems": 2,
+      "answerableItems": 2,
+      "examples": 0,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 2,
+          "answerableItems": 2,
+          "examples": 0,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第七章 税务咨询服务",
+      "rawBlocks": 3,
+      "importedItems": 3,
+      "answerableItems": 1,
+      "examples": 2,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 3,
+          "answerableItems": 1,
+          "examples": 2,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第八章 其他税务事项代办服务",
+      "rawBlocks": 3,
+      "importedItems": 3,
+      "answerableItems": 0,
+      "examples": 3,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 3,
+          "answerableItems": 0,
+          "examples": 3,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第九章 其他税务代理",
+      "rawBlocks": 9,
+      "importedItems": 9,
+      "answerableItems": 6,
+      "examples": 3,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 9,
+          "answerableItems": 6,
+          "examples": 3,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第一章 导论",
+      "rawBlocks": 12,
+      "importedItems": 12,
+      "answerableItems": 12,
+      "examples": 0,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 12,
+          "answerableItems": 12,
+          "examples": 0,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第二章 税收征收管理",
+      "rawBlocks": 21,
+      "importedItems": 21,
+      "answerableItems": 15,
+      "examples": 2,
+      "studyItems": 4,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 21,
+          "answerableItems": 15,
+          "examples": 2,
+          "studyItems": 4
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第三章 涉税专业服务程序、方法和内容",
+      "rawBlocks": 218,
+      "importedItems": 218,
+      "answerableItems": 31,
+      "examples": 80,
+      "studyItems": 107,
+      "sections": [
+        {
+          "section": "本章综合 · 题组1",
+          "rawItems": 1,
+          "answerableItems": 1,
+          "examples": 0,
+          "studyItems": 0
+        },
+        {
+          "section": "第三节 货物劳务税纳税审核方法 · 题组1",
+          "rawItems": 46,
+          "answerableItems": 5,
+          "examples": 5,
+          "studyItems": 36
+        },
+        {
+          "section": "第三节 货物劳务税纳税审核方法 · 题组2",
+          "rawItems": 6,
+          "answerableItems": 2,
+          "examples": 1,
+          "studyItems": 3
+        },
+        {
+          "section": "第四节 所得税纳税审核方法 · 题组1",
+          "rawItems": 96,
+          "answerableItems": 12,
+          "examples": 46,
+          "studyItems": 38
+        },
+        {
+          "section": "第四节 所得税纳税审核方法 · 题组2",
+          "rawItems": 48,
+          "answerableItems": 7,
+          "examples": 28,
+          "studyItems": 13
+        },
+        {
+          "section": "第五节 其他税种纳税审核方法 · 题组1",
+          "rawItems": 21,
+          "answerableItems": 4,
+          "examples": 0,
+          "studyItems": 17
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第四章 涉税会计核算",
+      "rawBlocks": 18,
+      "importedItems": 18,
+      "answerableItems": 13,
+      "examples": 5,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 18,
+          "answerableItems": 13,
+          "examples": 5,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第五章 纳税申报代办服务",
+      "rawBlocks": 4,
+      "importedItems": 4,
+      "answerableItems": 2,
+      "examples": 0,
+      "studyItems": 2,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 4,
+          "answerableItems": 2,
+          "examples": 0,
+          "studyItems": 2
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第六章 涉税鉴证与纳税情况审查服务",
+      "rawBlocks": 2,
+      "importedItems": 2,
+      "answerableItems": 2,
+      "examples": 0,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 2,
+          "answerableItems": 2,
+          "examples": 0,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第七章 税务咨询服务",
+      "rawBlocks": 3,
+      "importedItems": 3,
+      "answerableItems": 1,
+      "examples": 2,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 3,
+          "answerableItems": 1,
+          "examples": 2,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第八章 其他税务事项代办服务",
+      "rawBlocks": 3,
+      "importedItems": 3,
+      "answerableItems": 0,
+      "examples": 3,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 3,
+          "answerableItems": 0,
+          "examples": 3,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第九章 其他税务代理",
+      "rawBlocks": 9,
+      "importedItems": 9,
+      "answerableItems": 6,
+      "examples": 3,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 9,
+          "answerableItems": 6,
+          "examples": 3,
+          "studyItems": 0
+        }
+      ]
     }
   ],
-  "misplacedFixed": 0,
-  "caseParentCount": 10,
-  "caseChildren": {
-    "2.27": [
-      "2.27（1）",
-      "2.27（2）",
-      "2.27（3）",
-      "2.27（4）"
-    ],
-    "2.35": [
-      "2.35（1）",
-      "2.35（2）",
-      "2.35（3）",
-      "2.35（4）"
-    ],
-    "2.36": [
-      "2.36（1）",
-      "2.36（2）",
-      "2.36（3）",
-      "2.36（4）"
-    ],
-    "3.40": [
-      "3.40（1）",
-      "3.40（2）",
-      "3.40（3）",
-      "3.40（4）"
-    ],
-    "3.42": [
-      "3.42（1）"
-    ],
-    "3.43": [
-      "3.43（1）",
-      "3.43（2）",
-      "3.43（3）"
-    ],
-    "4.13": [
-      "4.13（1）",
-      "4.13（2）",
-      "4.13（3）",
-      "4.13（4）"
-    ],
-    "4.14": [
-      "4.14（1）",
-      "4.14（2）",
-      "4.14（3）",
-      "4.14（4）"
-    ],
-    "6.23": [
-      "6.23（1）",
-      "6.23（2）"
-    ],
-    "6.28": [
-      "6.28（1）",
-      "6.28（2）",
-      "6.28（3）",
-      "6.28（4）"
-    ]
-  },
+  "practiceChapters": [
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第一章 导论",
+      "rawBlocks": 12,
+      "importedItems": 12,
+      "answerableItems": 12,
+      "examples": 0,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 12,
+          "answerableItems": 12,
+          "examples": 0,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第二章 税收征收管理",
+      "rawBlocks": 21,
+      "importedItems": 21,
+      "answerableItems": 15,
+      "examples": 2,
+      "studyItems": 4,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 21,
+          "answerableItems": 15,
+          "examples": 2,
+          "studyItems": 4
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第三章 涉税专业服务程序、方法和内容",
+      "rawBlocks": 218,
+      "importedItems": 218,
+      "answerableItems": 31,
+      "examples": 80,
+      "studyItems": 107,
+      "sections": [
+        {
+          "section": "本章综合 · 题组1",
+          "rawItems": 1,
+          "answerableItems": 1,
+          "examples": 0,
+          "studyItems": 0
+        },
+        {
+          "section": "第三节 货物劳务税纳税审核方法 · 题组1",
+          "rawItems": 46,
+          "answerableItems": 5,
+          "examples": 5,
+          "studyItems": 36
+        },
+        {
+          "section": "第三节 货物劳务税纳税审核方法 · 题组2",
+          "rawItems": 6,
+          "answerableItems": 2,
+          "examples": 1,
+          "studyItems": 3
+        },
+        {
+          "section": "第四节 所得税纳税审核方法 · 题组1",
+          "rawItems": 96,
+          "answerableItems": 12,
+          "examples": 46,
+          "studyItems": 38
+        },
+        {
+          "section": "第四节 所得税纳税审核方法 · 题组2",
+          "rawItems": 48,
+          "answerableItems": 7,
+          "examples": 28,
+          "studyItems": 13
+        },
+        {
+          "section": "第五节 其他税种纳税审核方法 · 题组1",
+          "rawItems": 21,
+          "answerableItems": 4,
+          "examples": 0,
+          "studyItems": 17
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第四章 涉税会计核算",
+      "rawBlocks": 18,
+      "importedItems": 18,
+      "answerableItems": 13,
+      "examples": 5,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 18,
+          "answerableItems": 13,
+          "examples": 5,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第五章 纳税申报代办服务",
+      "rawBlocks": 4,
+      "importedItems": 4,
+      "answerableItems": 2,
+      "examples": 0,
+      "studyItems": 2,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 4,
+          "answerableItems": 2,
+          "examples": 0,
+          "studyItems": 2
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第六章 涉税鉴证与纳税情况审查服务",
+      "rawBlocks": 2,
+      "importedItems": 2,
+      "answerableItems": 2,
+      "examples": 0,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 2,
+          "answerableItems": 2,
+          "examples": 0,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第七章 税务咨询服务",
+      "rawBlocks": 3,
+      "importedItems": 3,
+      "answerableItems": 1,
+      "examples": 2,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 3,
+          "answerableItems": 1,
+          "examples": 2,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第八章 其他税务事项代办服务",
+      "rawBlocks": 3,
+      "importedItems": 3,
+      "answerableItems": 0,
+      "examples": 3,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 3,
+          "answerableItems": 0,
+          "examples": 3,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第九章 其他税务代理",
+      "rawBlocks": 9,
+      "importedItems": 9,
+      "answerableItems": 6,
+      "examples": 3,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 9,
+          "answerableItems": 6,
+          "examples": 3,
+          "studyItems": 0
+        }
+      ]
+    }
+  ],
   "validation": {
     "issues": [],
     "warnings": [
       {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.38",
-        "reason": "题干相同但选项或答案不同，已保留",
-        "previous": "2.37"
+        "level": "warn",
+        "chapter": "第三章 涉税专业服务程序、方法和内容",
+        "section": "第四节 所得税纳税审核方法 · 题组1",
+        "number": "19",
+        "reason": "例题无答案解析文本"
       },
       {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.2",
-        "reason": "题干相同但选项或答案不同，已保留",
-        "previous": "5.1"
+        "level": "warn",
+        "chapter": "第三章 涉税专业服务程序、方法和内容",
+        "section": "第四节 所得税纳税审核方法 · 题组1",
+        "number": "20",
+        "reason": "例题无答案解析文本"
+      },
+      {
+        "level": "warn",
+        "chapter": "第三章 涉税专业服务程序、方法和内容",
+        "section": "第四节 所得税纳税审核方法 · 题组1",
+        "number": "32",
+        "reason": "例题无答案解析文本"
+      },
+      {
+        "level": "warn",
+        "chapter": "第三章 涉税专业服务程序、方法和内容",
+        "section": "第四节 所得税纳税审核方法 · 题组1",
+        "number": "35",
+        "reason": "例题无答案解析文本"
+      },
+      {
+        "level": "warn",
+        "chapter": "第三章 涉税专业服务程序、方法和内容",
+        "section": "第四节 所得税纳税审核方法 · 题组1",
+        "number": "36",
+        "reason": "例题无答案解析文本"
+      },
+      {
+        "level": "warn",
+        "chapter": "第三章 涉税专业服务程序、方法和内容",
+        "section": "第四节 所得税纳税审核方法 · 题组1",
+        "number": "44",
+        "reason": "例题无答案解析文本"
+      },
+      {
+        "level": "warn",
+        "chapter": "第三章 涉税专业服务程序、方法和内容",
+        "section": "第四节 所得税纳税审核方法 · 题组1",
+        "number": "48",
+        "reason": "例题无答案解析文本"
+      },
+      {
+        "level": "warn",
+        "chapter": "第三章 涉税专业服务程序、方法和内容",
+        "section": "第四节 所得税纳税审核方法 · 题组1",
+        "number": "54",
+        "reason": "例题无答案解析文本"
+      },
+      {
+        "level": "warn",
+        "chapter": "第三章 涉税专业服务程序、方法和内容",
+        "section": "第四节 所得税纳税审核方法 · 题组1",
+        "number": "59",
+        "reason": "例题无答案解析文本"
       }
     ],
-    "fixes": [],
-    "missing": [],
-    "extra": [],
-    "duplicateExact": [],
-    "skippedNewDuplicates": [
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.70",
-        "duplicateOf": "1.69",
-        "reason": "题干、选项、答案、解析完全一致"
-      }
-    ],
-    "skippedExistingDuplicates": [
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.1",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.1|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.2",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.2|多选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.3",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.3|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.4",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.4|多选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.5",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.5|多选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.6",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.6|多选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.7",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.7|多选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.8",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.8|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.9",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.9|多选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.10",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.10|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.11",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.11|多选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.12",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.12|多选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.13",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.13|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.14",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.14|多选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.15",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.15|例题"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.16",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.16|例题"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.17",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.17|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.18",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.18|例题"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.19",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.19|例题"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.20",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.20|接上例"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.21",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.21|例题"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.22",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.22|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.23",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.23|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.24",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.24|多选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.25",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.25|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.26",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.26|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.27",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.27|多选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.28",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.28|例题"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.29",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.29|例题"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.30",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.30|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.31",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.31|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.32",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.32|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.33",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.33|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.34",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.34|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.35",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.35|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.36",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.36|多选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.37",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.37|例题"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.38",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.38|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.39",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.39|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.40",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.40|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.41",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.41|多选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.42",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.42|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.43",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.43|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.44",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.44|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.45",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.45|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.46",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.46|多选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.47",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.47|例题"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.48",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.48|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.49",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.49|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.50",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.50|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.51",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.51|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.52",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.52|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.53",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.53|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.54",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.54|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.55",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.55|多选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.56",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.56|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.57",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.57|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.58",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.58|多选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.59",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.59|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.60",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.60|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.61",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.61|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.62",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.62|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.63",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.63|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.64",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.64|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.65",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.65|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.66",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.66|多选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.67",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.67|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.68",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.68|单选"
-      },
-      {
-        "chapter": "第一章 财务管理概论和基础",
-        "number": "1.69",
-        "existingId": "财务与会计|第一章 财务管理概论和基础|1.69|多选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.1",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.1|例题"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.2",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.2|单选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.3",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.3|单选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.4",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.4|例题"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.5",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.5|单选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.6",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.6|单选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.7",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.7|单选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.8",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.8|单选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.9",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.9|单选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.10",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.10|例题"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.11",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.11|单选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.12",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.12|单选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.13",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.13|例题"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.14",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.14|例题"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.15",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.15|单选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.16",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.16|单选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.17",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.17|例题"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.18",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.18|接上例"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.19",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.19|单选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.20",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.20|单选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.21",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.21|多选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.22",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.22|单选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.23",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.23|多选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.24",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.24|单选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.25",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.25|单选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.26",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.26|多选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.27（1）",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.27（1）|单选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.27（2）",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.27（2）|单选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.27（3）",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.27（3）|单选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.27（4）",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.27（4）|单选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.28",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.28|例题"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.29",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.29|单选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.30",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.30|单选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.31",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.31|单选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.32",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.32|单选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.33",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.33|例题"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.34",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.34|多选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.35（1）",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.35（1）|单选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.35（2）",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.35（2）|单选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.35（3）",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.35（3）|单选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.35（4）",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.35（4）|单选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.36（1）",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.36（1）|单选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.36（2）",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.36（2）|单选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.36（3）",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.36（3）|单选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.36（4）",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.36（4）|单选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.37",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.37|单选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.38",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.38|单选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.39",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.39|多选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.40",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.40|多选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.41",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.41|单选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.42",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.42|多选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.43",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.43|多选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.44",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.44|多选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.45",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.45|多选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.46",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.46|多选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.47",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.47|单选"
-      },
-      {
-        "chapter": "第二章 财务预测和财务预算",
-        "number": "2.48",
-        "existingId": "财务与会计|第二章 财务预测和财务预算|2.48|多选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.1",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.1|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.2",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.2|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.3",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.3|多选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.4",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.4|多选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.5",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.5|多选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.6",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.6|多选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.7",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.7|多选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.8",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.8|多选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.9",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.9|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.10",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.10|多选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.11",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.11|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.12",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.12|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.13",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.13|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.14",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.14|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.15",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.15|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.16",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.16|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.17",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.17|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.18",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.18|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.19",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.19|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.20",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.20|例题"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.21",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.21|例题"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.22",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.22|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.23",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.23|例题"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.24",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.24|例题"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.25",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.25|例题"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.26",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.26|例题"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.27",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.27|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.28",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.28|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.29",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.29|例题"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.30",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.30|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.31",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.31|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.32",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.32|例题"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.33",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.33|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.34",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.34|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.35",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.35|例题"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.36",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.36|例题"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.37",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.37|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.38",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.38|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.39",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.39|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.40（1）",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.40（1）|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.40（2）",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.40（2）|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.40（3）",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.40（3）|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.40（4）",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.40（4）|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.41",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.41|例题"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.42（1）",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.42（1）|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.43（1）",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.43（1）|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.43（2）",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.43（2）|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.43（3）",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.43（3）|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.44",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.44|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.45",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.45|例题"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.46",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.46|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.47",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.47|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.48",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.48|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.49",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.49|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.50",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.50|多选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.51",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.51|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.52",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.52|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.53",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.53|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.54",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.54|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.55",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.55|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.56",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.56|例题"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.57",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.57|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.58",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.58|例题"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.59",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.59|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.60",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.60|单选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.61",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.61|多选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.62",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.62|多选"
-      },
-      {
-        "chapter": "第三章 筹资与股利分配管理",
-        "number": "3.63",
-        "existingId": "财务与会计|第三章 筹资与股利分配管理|3.63|多选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.1",
-        "existingId": "财务与会计|第四章 投资管理|4.1|单选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.2",
-        "existingId": "财务与会计|第四章 投资管理|4.2|多选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.3",
-        "existingId": "财务与会计|第四章 投资管理|4.3|例题"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.4",
-        "existingId": "财务与会计|第四章 投资管理|4.4|单选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.5",
-        "existingId": "财务与会计|第四章 投资管理|4.5|单选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.6",
-        "existingId": "财务与会计|第四章 投资管理|4.6|例题"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.7",
-        "existingId": "财务与会计|第四章 投资管理|4.7|单选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.8",
-        "existingId": "财务与会计|第四章 投资管理|4.8|单选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.9",
-        "existingId": "财务与会计|第四章 投资管理|4.9|单选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.10",
-        "existingId": "财务与会计|第四章 投资管理|4.10|多选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.11",
-        "existingId": "财务与会计|第四章 投资管理|4.11|单选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.12",
-        "existingId": "财务与会计|第四章 投资管理|4.12|单选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.13（1）",
-        "existingId": "财务与会计|第四章 投资管理|4.13（1）|单选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.13（2）",
-        "existingId": "财务与会计|第四章 投资管理|4.13（2）|单选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.13（3）",
-        "existingId": "财务与会计|第四章 投资管理|4.13（3）|单选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.13（4）",
-        "existingId": "财务与会计|第四章 投资管理|4.13（4）|单选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.14（1）",
-        "existingId": "财务与会计|第四章 投资管理|4.14（1）|单选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.14（2）",
-        "existingId": "财务与会计|第四章 投资管理|4.14（2）|单选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.14（3）",
-        "existingId": "财务与会计|第四章 投资管理|4.14（3）|单选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.14（4）",
-        "existingId": "财务与会计|第四章 投资管理|4.14（4）|单选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.15",
-        "existingId": "财务与会计|第四章 投资管理|4.15|例题"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.16",
-        "existingId": "财务与会计|第四章 投资管理|4.16|例题"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.17",
-        "existingId": "财务与会计|第四章 投资管理|4.17|例题"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.18",
-        "existingId": "财务与会计|第四章 投资管理|4.18|例题"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.19",
-        "existingId": "财务与会计|第四章 投资管理|4.19|单选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.20",
-        "existingId": "财务与会计|第四章 投资管理|4.20|单选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.21",
-        "existingId": "财务与会计|第四章 投资管理|4.21|单选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.22",
-        "existingId": "财务与会计|第四章 投资管理|4.22|单选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.23",
-        "existingId": "财务与会计|第四章 投资管理|4.23|例题"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.24",
-        "existingId": "财务与会计|第四章 投资管理|4.24|多选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.25",
-        "existingId": "财务与会计|第四章 投资管理|4.25|单选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.26",
-        "existingId": "财务与会计|第四章 投资管理|4.26|单选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.27",
-        "existingId": "财务与会计|第四章 投资管理|4.27|单选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.28",
-        "existingId": "财务与会计|第四章 投资管理|4.28|例题"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.29",
-        "existingId": "财务与会计|第四章 投资管理|4.29|单选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.30",
-        "existingId": "财务与会计|第四章 投资管理|4.30|多选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.31",
-        "existingId": "财务与会计|第四章 投资管理|4.31|多选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.32",
-        "existingId": "财务与会计|第四章 投资管理|4.32|例题"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.33",
-        "existingId": "财务与会计|第四章 投资管理|4.33|多选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.34",
-        "existingId": "财务与会计|第四章 投资管理|4.34|多选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.35",
-        "existingId": "财务与会计|第四章 投资管理|4.35|例题"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.36",
-        "existingId": "财务与会计|第四章 投资管理|4.36|例题"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.37",
-        "existingId": "财务与会计|第四章 投资管理|4.37|例题"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.38",
-        "existingId": "财务与会计|第四章 投资管理|4.38|单选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.39",
-        "existingId": "财务与会计|第四章 投资管理|4.39|例题"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.40",
-        "existingId": "财务与会计|第四章 投资管理|4.40|例题"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.41",
-        "existingId": "财务与会计|第四章 投资管理|4.41|单选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.42",
-        "existingId": "财务与会计|第四章 投资管理|4.42|单选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.43",
-        "existingId": "财务与会计|第四章 投资管理|4.43|例题"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.44",
-        "existingId": "财务与会计|第四章 投资管理|4.44|单选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.45",
-        "existingId": "财务与会计|第四章 投资管理|4.45|多选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.46",
-        "existingId": "财务与会计|第四章 投资管理|4.46|单选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.47",
-        "existingId": "财务与会计|第四章 投资管理|4.47|单选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.48",
-        "existingId": "财务与会计|第四章 投资管理|4.48|单选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.49",
-        "existingId": "财务与会计|第四章 投资管理|4.49|多选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.50",
-        "existingId": "财务与会计|第四章 投资管理|4.50|多选"
-      },
-      {
-        "chapter": "第四章 投资管理",
-        "number": "4.51",
-        "existingId": "财务与会计|第四章 投资管理|4.51|多选"
-      },
-      {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.1",
-        "existingId": "财务与会计|第五章 营运资金管理|5.1|单选"
-      },
-      {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.2",
-        "existingId": "财务与会计|第五章 营运资金管理|5.2|单选"
-      },
-      {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.3",
-        "existingId": "财务与会计|第五章 营运资金管理|5.3|多选"
-      },
-      {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.4",
-        "existingId": "财务与会计|第五章 营运资金管理|5.4|单选"
-      },
-      {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.5",
-        "existingId": "财务与会计|第五章 营运资金管理|5.5|单选"
-      },
-      {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.6",
-        "existingId": "财务与会计|第五章 营运资金管理|5.6|多选"
-      },
-      {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.7",
-        "existingId": "财务与会计|第五章 营运资金管理|5.7|例题"
-      },
-      {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.8",
-        "existingId": "财务与会计|第五章 营运资金管理|5.8|例题"
-      },
-      {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.9",
-        "existingId": "财务与会计|第五章 营运资金管理|5.9|单选"
-      },
-      {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.10",
-        "existingId": "财务与会计|第五章 营运资金管理|5.10|单选"
-      },
-      {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.11",
-        "existingId": "财务与会计|第五章 营运资金管理|5.11|单选"
-      },
-      {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.12",
-        "existingId": "财务与会计|第五章 营运资金管理|5.12|多选"
-      },
-      {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.13",
-        "existingId": "财务与会计|第五章 营运资金管理|5.13|多选"
-      },
-      {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.14",
-        "existingId": "财务与会计|第五章 营运资金管理|5.14|单选"
-      },
-      {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.15",
-        "existingId": "财务与会计|第五章 营运资金管理|5.15|例题"
-      },
-      {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.16",
-        "existingId": "财务与会计|第五章 营运资金管理|5.16|单选"
-      },
-      {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.17",
-        "existingId": "财务与会计|第五章 营运资金管理|5.17|单选"
-      },
-      {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.18",
-        "existingId": "财务与会计|第五章 营运资金管理|5.18|单选"
-      },
-      {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.19",
-        "existingId": "财务与会计|第五章 营运资金管理|5.19|单选"
-      },
-      {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.20",
-        "existingId": "财务与会计|第五章 营运资金管理|5.20|例题"
-      },
-      {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.21",
-        "existingId": "财务与会计|第五章 营运资金管理|5.21|多选"
-      },
-      {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.22",
-        "existingId": "财务与会计|第五章 营运资金管理|5.22|例题"
-      },
-      {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.23",
-        "existingId": "财务与会计|第五章 营运资金管理|5.23|单选"
-      },
-      {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.24",
-        "existingId": "财务与会计|第五章 营运资金管理|5.24|单选"
-      },
-      {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.25",
-        "existingId": "财务与会计|第五章 营运资金管理|5.25|单选"
-      },
-      {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.26",
-        "existingId": "财务与会计|第五章 营运资金管理|5.26|单选"
-      },
-      {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.27",
-        "existingId": "财务与会计|第五章 营运资金管理|5.27|单选"
-      },
-      {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.28",
-        "existingId": "财务与会计|第五章 营运资金管理|5.28|例题"
-      },
-      {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.29",
-        "existingId": "财务与会计|第五章 营运资金管理|5.29|例题"
-      },
-      {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.30",
-        "existingId": "财务与会计|第五章 营运资金管理|5.30|单选"
-      },
-      {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.31",
-        "existingId": "财务与会计|第五章 营运资金管理|5.31|单选"
-      },
-      {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.32",
-        "existingId": "财务与会计|第五章 营运资金管理|5.32|单选"
-      },
-      {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.33",
-        "existingId": "财务与会计|第五章 营运资金管理|5.33|多选"
-      },
-      {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.34",
-        "existingId": "财务与会计|第五章 营运资金管理|5.34|多选"
-      },
-      {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.35",
-        "existingId": "财务与会计|第五章 营运资金管理|5.35|多选"
-      },
-      {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.36",
-        "existingId": "财务与会计|第五章 营运资金管理|5.36|多选"
-      },
-      {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.37",
-        "existingId": "财务与会计|第五章 营运资金管理|5.37|单选"
-      },
-      {
-        "chapter": "第五章 营运资金管理",
-        "number": "5.38",
-        "existingId": "财务与会计|第五章 营运资金管理|5.38|单选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.1",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.1|单选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.2",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.2|单选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.3",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.3|单选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.4",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.4|多选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.5",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.5|例题"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.6",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.6|单选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.7",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.7|单选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.8",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.8|单选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.9",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.9|单选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.10",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.10|多选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.11",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.11|多选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.12",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.12|单选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.13",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.13|单选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.14",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.14|单选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.15",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.15|单选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.16",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.16|多选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.17",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.17|单选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.18",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.18|多选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.19",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.19|单选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.20",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.20|多选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.21",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.21|单选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.22",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.22|单选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.23（1）",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.23（1）|单选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.23（2）",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.23（2）|单选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.24",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.24|例题"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.25",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.25|单选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.26",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.26|多选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.27",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.27|多选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.28（1）",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.28（1）|单选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.28（2）",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.28（2）|单选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.28（3）",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.28（3）|单选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.28（4）",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.28（4）|单选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.29",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.29|单选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.30",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.30|单选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.31",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.31|单选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.32",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.32|单选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.33",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.33|单选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.34",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.34|单选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.35",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.35|单选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.36",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.36|多选"
-      },
-      {
-        "chapter": "第六章 财务分析与评价",
-        "number": "6.37",
-        "existingId": "财务与会计|第六章 财务分析与评价|6.37|多选"
-      }
-    ],
-    "otherChaptersUnchanged": true,
+    "exactDuplicates": [],
+    "adjacentSameStem": [],
+    "financeUnchanged": true,
     "passed": true
   },
-  "passed": true
+  "passed": true,
+  "financeCount": 1103,
+  "practiceCount": 290,
+  "practiceAnswerable": 82,
+  "practiceExamples": 95,
+  "practiceStudyItems": 113
 }
