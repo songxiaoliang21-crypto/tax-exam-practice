@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-15T05:25:11.609855+00:00",
-  "version": "tax-practice-2026-08-15-ch1-9",
+  "generatedAt": "2026-08-30T10:59:51.753800+00:00",
+  "version": "tax-practice-2026-08-30-practice-example-fix",
   "sourceDir": "E:\\税务师题库\\涉税服务实务题库",
   "totalItems": 1393,
-  "answerableItems": 1036,
+  "answerableItems": 1079,
   "examples": 226,
   "studyItems": 131,
   "chapters": [
@@ -1684,9 +1684,7 @@
           "studyItems": 0
         }
       ]
-    }
-  ],
-  "practiceChapters": [
+    },
     {
       "subject": "涉税服务实务",
       "chapter": "第一章 导论",
@@ -1710,14 +1708,14 @@
       "chapter": "第二章 税收征收管理",
       "rawBlocks": 21,
       "importedItems": 21,
-      "answerableItems": 15,
+      "answerableItems": 17,
       "examples": 2,
       "studyItems": 4,
       "sections": [
         {
           "section": "本章综合",
           "rawItems": 21,
-          "answerableItems": 15,
+          "answerableItems": 17,
           "examples": 2,
           "studyItems": 4
         }
@@ -1728,7 +1726,7 @@
       "chapter": "第三章 涉税专业服务程序、方法和内容",
       "rawBlocks": 218,
       "importedItems": 218,
-      "answerableItems": 31,
+      "answerableItems": 59,
       "examples": 80,
       "studyItems": 107,
       "sections": [
@@ -1744,28 +1742,28 @@
           "rawItems": 46,
           "answerableItems": 5,
           "examples": 5,
-          "studyItems": 36
+          "studyItems": 41
         },
         {
           "section": "第三节 货物劳务税纳税审核方法 · 题组2",
           "rawItems": 6,
-          "answerableItems": 2,
+          "answerableItems": 3,
           "examples": 1,
           "studyItems": 3
         },
         {
           "section": "第四节 所得税纳税审核方法 · 题组1",
           "rawItems": 96,
-          "answerableItems": 12,
+          "answerableItems": 27,
           "examples": 46,
-          "studyItems": 38
+          "studyItems": 69
         },
         {
           "section": "第四节 所得税纳税审核方法 · 题组2",
           "rawItems": 48,
-          "answerableItems": 7,
+          "answerableItems": 19,
           "examples": 28,
-          "studyItems": 13
+          "studyItems": 29
         },
         {
           "section": "第五节 其他税种纳税审核方法 · 题组1",
@@ -1781,14 +1779,14 @@
       "chapter": "第四章 涉税会计核算",
       "rawBlocks": 18,
       "importedItems": 18,
-      "answerableItems": 13,
+      "answerableItems": 18,
       "examples": 5,
       "studyItems": 0,
       "sections": [
         {
           "section": "本章综合",
           "rawItems": 18,
-          "answerableItems": 13,
+          "answerableItems": 18,
           "examples": 5,
           "studyItems": 0
         }
@@ -1835,14 +1833,14 @@
       "chapter": "第七章 税务咨询服务",
       "rawBlocks": 3,
       "importedItems": 3,
-      "answerableItems": 1,
+      "answerableItems": 3,
       "examples": 2,
       "studyItems": 0,
       "sections": [
         {
           "section": "本章综合",
           "rawItems": 3,
-          "answerableItems": 1,
+          "answerableItems": 3,
           "examples": 2,
           "studyItems": 0
         }
@@ -1853,14 +1851,14 @@
       "chapter": "第八章 其他税务事项代办服务",
       "rawBlocks": 3,
       "importedItems": 3,
-      "answerableItems": 0,
+      "answerableItems": 3,
       "examples": 3,
       "studyItems": 0,
       "sections": [
         {
           "section": "本章综合",
           "rawItems": 3,
-          "answerableItems": 0,
+          "answerableItems": 3,
           "examples": 3,
           "studyItems": 0
         }
@@ -1871,14 +1869,804 @@
       "chapter": "第九章 其他税务代理",
       "rawBlocks": 9,
       "importedItems": 9,
-      "answerableItems": 6,
+      "answerableItems": 9,
       "examples": 3,
       "studyItems": 0,
       "sections": [
         {
           "section": "本章综合",
           "rawItems": 9,
-          "answerableItems": 6,
+          "answerableItems": 9,
+          "examples": 3,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第一章 导论",
+      "rawBlocks": 12,
+      "importedItems": 12,
+      "answerableItems": 12,
+      "examples": 0,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 12,
+          "answerableItems": 12,
+          "examples": 0,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第二章 税收征收管理",
+      "rawBlocks": 21,
+      "importedItems": 21,
+      "answerableItems": 17,
+      "examples": 2,
+      "studyItems": 4,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 21,
+          "answerableItems": 17,
+          "examples": 2,
+          "studyItems": 4
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第三章 涉税专业服务程序、方法和内容",
+      "rawBlocks": 218,
+      "importedItems": 218,
+      "answerableItems": 59,
+      "examples": 80,
+      "studyItems": 107,
+      "sections": [
+        {
+          "section": "本章综合 · 题组1",
+          "rawItems": 1,
+          "answerableItems": 1,
+          "examples": 0,
+          "studyItems": 0
+        },
+        {
+          "section": "第三节 货物劳务税纳税审核方法 · 题组1",
+          "rawItems": 46,
+          "answerableItems": 5,
+          "examples": 5,
+          "studyItems": 41
+        },
+        {
+          "section": "第三节 货物劳务税纳税审核方法 · 题组2",
+          "rawItems": 6,
+          "answerableItems": 3,
+          "examples": 1,
+          "studyItems": 3
+        },
+        {
+          "section": "第四节 所得税纳税审核方法 · 题组1",
+          "rawItems": 96,
+          "answerableItems": 27,
+          "examples": 46,
+          "studyItems": 69
+        },
+        {
+          "section": "第四节 所得税纳税审核方法 · 题组2",
+          "rawItems": 48,
+          "answerableItems": 19,
+          "examples": 28,
+          "studyItems": 29
+        },
+        {
+          "section": "第五节 其他税种纳税审核方法 · 题组1",
+          "rawItems": 21,
+          "answerableItems": 4,
+          "examples": 0,
+          "studyItems": 17
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第四章 涉税会计核算",
+      "rawBlocks": 18,
+      "importedItems": 18,
+      "answerableItems": 18,
+      "examples": 5,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 18,
+          "answerableItems": 18,
+          "examples": 5,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第五章 纳税申报代办服务",
+      "rawBlocks": 4,
+      "importedItems": 4,
+      "answerableItems": 2,
+      "examples": 0,
+      "studyItems": 2,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 4,
+          "answerableItems": 2,
+          "examples": 0,
+          "studyItems": 2
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第六章 涉税鉴证与纳税情况审查服务",
+      "rawBlocks": 2,
+      "importedItems": 2,
+      "answerableItems": 2,
+      "examples": 0,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 2,
+          "answerableItems": 2,
+          "examples": 0,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第七章 税务咨询服务",
+      "rawBlocks": 3,
+      "importedItems": 3,
+      "answerableItems": 3,
+      "examples": 2,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 3,
+          "answerableItems": 3,
+          "examples": 2,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第八章 其他税务事项代办服务",
+      "rawBlocks": 3,
+      "importedItems": 3,
+      "answerableItems": 3,
+      "examples": 3,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 3,
+          "answerableItems": 3,
+          "examples": 3,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第九章 其他税务代理",
+      "rawBlocks": 9,
+      "importedItems": 9,
+      "answerableItems": 9,
+      "examples": 3,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 9,
+          "answerableItems": 9,
+          "examples": 3,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第一章 导论",
+      "rawBlocks": 12,
+      "importedItems": 12,
+      "answerableItems": 12,
+      "examples": 0,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 12,
+          "answerableItems": 12,
+          "examples": 0,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第二章 税收征收管理",
+      "rawBlocks": 21,
+      "importedItems": 21,
+      "answerableItems": 17,
+      "examples": 2,
+      "studyItems": 4,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 21,
+          "answerableItems": 17,
+          "examples": 2,
+          "studyItems": 4
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第三章 涉税专业服务程序、方法和内容",
+      "rawBlocks": 218,
+      "importedItems": 218,
+      "answerableItems": 59,
+      "examples": 80,
+      "studyItems": 107,
+      "sections": [
+        {
+          "section": "本章综合 · 题组1",
+          "rawItems": 1,
+          "answerableItems": 1,
+          "examples": 0,
+          "studyItems": 0
+        },
+        {
+          "section": "第三节 货物劳务税纳税审核方法 · 题组1",
+          "rawItems": 46,
+          "answerableItems": 5,
+          "examples": 5,
+          "studyItems": 41
+        },
+        {
+          "section": "第三节 货物劳务税纳税审核方法 · 题组2",
+          "rawItems": 6,
+          "answerableItems": 3,
+          "examples": 1,
+          "studyItems": 3
+        },
+        {
+          "section": "第四节 所得税纳税审核方法 · 题组1",
+          "rawItems": 96,
+          "answerableItems": 27,
+          "examples": 46,
+          "studyItems": 69
+        },
+        {
+          "section": "第四节 所得税纳税审核方法 · 题组2",
+          "rawItems": 48,
+          "answerableItems": 19,
+          "examples": 28,
+          "studyItems": 29
+        },
+        {
+          "section": "第五节 其他税种纳税审核方法 · 题组1",
+          "rawItems": 21,
+          "answerableItems": 4,
+          "examples": 0,
+          "studyItems": 17
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第四章 涉税会计核算",
+      "rawBlocks": 18,
+      "importedItems": 18,
+      "answerableItems": 18,
+      "examples": 5,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 18,
+          "answerableItems": 18,
+          "examples": 5,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第五章 纳税申报代办服务",
+      "rawBlocks": 4,
+      "importedItems": 4,
+      "answerableItems": 2,
+      "examples": 0,
+      "studyItems": 2,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 4,
+          "answerableItems": 2,
+          "examples": 0,
+          "studyItems": 2
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第六章 涉税鉴证与纳税情况审查服务",
+      "rawBlocks": 2,
+      "importedItems": 2,
+      "answerableItems": 2,
+      "examples": 0,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 2,
+          "answerableItems": 2,
+          "examples": 0,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第七章 税务咨询服务",
+      "rawBlocks": 3,
+      "importedItems": 3,
+      "answerableItems": 3,
+      "examples": 2,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 3,
+          "answerableItems": 3,
+          "examples": 2,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第八章 其他税务事项代办服务",
+      "rawBlocks": 3,
+      "importedItems": 3,
+      "answerableItems": 3,
+      "examples": 3,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 3,
+          "answerableItems": 3,
+          "examples": 3,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第九章 其他税务代理",
+      "rawBlocks": 9,
+      "importedItems": 9,
+      "answerableItems": 9,
+      "examples": 3,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 9,
+          "answerableItems": 9,
+          "examples": 3,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第一章 导论",
+      "rawBlocks": 12,
+      "importedItems": 12,
+      "answerableItems": 12,
+      "examples": 0,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 12,
+          "answerableItems": 12,
+          "examples": 0,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第二章 税收征收管理",
+      "rawBlocks": 21,
+      "importedItems": 21,
+      "answerableItems": 17,
+      "examples": 2,
+      "studyItems": 4,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 21,
+          "answerableItems": 17,
+          "examples": 2,
+          "studyItems": 4
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第三章 涉税专业服务程序、方法和内容",
+      "rawBlocks": 218,
+      "importedItems": 218,
+      "answerableItems": 59,
+      "examples": 80,
+      "studyItems": 107,
+      "sections": [
+        {
+          "section": "本章综合 · 题组1",
+          "rawItems": 1,
+          "answerableItems": 1,
+          "examples": 0,
+          "studyItems": 0
+        },
+        {
+          "section": "第三节 货物劳务税纳税审核方法 · 题组1",
+          "rawItems": 46,
+          "answerableItems": 5,
+          "examples": 5,
+          "studyItems": 41
+        },
+        {
+          "section": "第三节 货物劳务税纳税审核方法 · 题组2",
+          "rawItems": 6,
+          "answerableItems": 3,
+          "examples": 1,
+          "studyItems": 3
+        },
+        {
+          "section": "第四节 所得税纳税审核方法 · 题组1",
+          "rawItems": 96,
+          "answerableItems": 27,
+          "examples": 46,
+          "studyItems": 69
+        },
+        {
+          "section": "第四节 所得税纳税审核方法 · 题组2",
+          "rawItems": 48,
+          "answerableItems": 19,
+          "examples": 28,
+          "studyItems": 29
+        },
+        {
+          "section": "第五节 其他税种纳税审核方法 · 题组1",
+          "rawItems": 21,
+          "answerableItems": 4,
+          "examples": 0,
+          "studyItems": 17
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第四章 涉税会计核算",
+      "rawBlocks": 18,
+      "importedItems": 18,
+      "answerableItems": 18,
+      "examples": 5,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 18,
+          "answerableItems": 18,
+          "examples": 5,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第五章 纳税申报代办服务",
+      "rawBlocks": 4,
+      "importedItems": 4,
+      "answerableItems": 2,
+      "examples": 0,
+      "studyItems": 2,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 4,
+          "answerableItems": 2,
+          "examples": 0,
+          "studyItems": 2
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第六章 涉税鉴证与纳税情况审查服务",
+      "rawBlocks": 2,
+      "importedItems": 2,
+      "answerableItems": 2,
+      "examples": 0,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 2,
+          "answerableItems": 2,
+          "examples": 0,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第七章 税务咨询服务",
+      "rawBlocks": 3,
+      "importedItems": 3,
+      "answerableItems": 3,
+      "examples": 2,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 3,
+          "answerableItems": 3,
+          "examples": 2,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第八章 其他税务事项代办服务",
+      "rawBlocks": 3,
+      "importedItems": 3,
+      "answerableItems": 3,
+      "examples": 3,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 3,
+          "answerableItems": 3,
+          "examples": 3,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第九章 其他税务代理",
+      "rawBlocks": 9,
+      "importedItems": 9,
+      "answerableItems": 9,
+      "examples": 3,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 9,
+          "answerableItems": 9,
+          "examples": 3,
+          "studyItems": 0
+        }
+      ]
+    }
+  ],
+  "practiceChapters": [
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第一章 导论",
+      "rawBlocks": 12,
+      "importedItems": 12,
+      "answerableItems": 12,
+      "examples": 0,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 12,
+          "answerableItems": 12,
+          "examples": 0,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第二章 税收征收管理",
+      "rawBlocks": 21,
+      "importedItems": 21,
+      "answerableItems": 17,
+      "examples": 2,
+      "studyItems": 4,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 21,
+          "answerableItems": 17,
+          "examples": 2,
+          "studyItems": 4
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第三章 涉税专业服务程序、方法和内容",
+      "rawBlocks": 218,
+      "importedItems": 218,
+      "answerableItems": 59,
+      "examples": 80,
+      "studyItems": 107,
+      "sections": [
+        {
+          "section": "本章综合 · 题组1",
+          "rawItems": 1,
+          "answerableItems": 1,
+          "examples": 0,
+          "studyItems": 0
+        },
+        {
+          "section": "第三节 货物劳务税纳税审核方法 · 题组1",
+          "rawItems": 46,
+          "answerableItems": 5,
+          "examples": 5,
+          "studyItems": 41
+        },
+        {
+          "section": "第三节 货物劳务税纳税审核方法 · 题组2",
+          "rawItems": 6,
+          "answerableItems": 3,
+          "examples": 1,
+          "studyItems": 3
+        },
+        {
+          "section": "第四节 所得税纳税审核方法 · 题组1",
+          "rawItems": 96,
+          "answerableItems": 27,
+          "examples": 46,
+          "studyItems": 69
+        },
+        {
+          "section": "第四节 所得税纳税审核方法 · 题组2",
+          "rawItems": 48,
+          "answerableItems": 19,
+          "examples": 28,
+          "studyItems": 29
+        },
+        {
+          "section": "第五节 其他税种纳税审核方法 · 题组1",
+          "rawItems": 21,
+          "answerableItems": 4,
+          "examples": 0,
+          "studyItems": 17
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第四章 涉税会计核算",
+      "rawBlocks": 18,
+      "importedItems": 18,
+      "answerableItems": 18,
+      "examples": 5,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 18,
+          "answerableItems": 18,
+          "examples": 5,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第五章 纳税申报代办服务",
+      "rawBlocks": 4,
+      "importedItems": 4,
+      "answerableItems": 2,
+      "examples": 0,
+      "studyItems": 2,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 4,
+          "answerableItems": 2,
+          "examples": 0,
+          "studyItems": 2
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第六章 涉税鉴证与纳税情况审查服务",
+      "rawBlocks": 2,
+      "importedItems": 2,
+      "answerableItems": 2,
+      "examples": 0,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 2,
+          "answerableItems": 2,
+          "examples": 0,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第七章 税务咨询服务",
+      "rawBlocks": 3,
+      "importedItems": 3,
+      "answerableItems": 3,
+      "examples": 2,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 3,
+          "answerableItems": 3,
+          "examples": 2,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第八章 其他税务事项代办服务",
+      "rawBlocks": 3,
+      "importedItems": 3,
+      "answerableItems": 3,
+      "examples": 3,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 3,
+          "answerableItems": 3,
+          "examples": 3,
+          "studyItems": 0
+        }
+      ]
+    },
+    {
+      "subject": "涉税服务实务",
+      "chapter": "第九章 其他税务代理",
+      "rawBlocks": 9,
+      "importedItems": 9,
+      "answerableItems": 9,
+      "examples": 3,
+      "studyItems": 0,
+      "sections": [
+        {
+          "section": "本章综合",
+          "rawItems": 9,
+          "answerableItems": 9,
           "examples": 3,
           "studyItems": 0
         }
@@ -1893,63 +2681,63 @@
         "chapter": "第三章 涉税专业服务程序、方法和内容",
         "section": "第四节 所得税纳税审核方法 · 题组1",
         "number": "19",
-        "reason": "例题无答案解析文本"
+        "reason": "对应题组答案区未提供例题答案/解析"
       },
       {
         "level": "warn",
         "chapter": "第三章 涉税专业服务程序、方法和内容",
         "section": "第四节 所得税纳税审核方法 · 题组1",
         "number": "20",
-        "reason": "例题无答案解析文本"
+        "reason": "对应题组答案区未提供例题答案/解析"
       },
       {
         "level": "warn",
         "chapter": "第三章 涉税专业服务程序、方法和内容",
         "section": "第四节 所得税纳税审核方法 · 题组1",
         "number": "32",
-        "reason": "例题无答案解析文本"
+        "reason": "对应题组答案区未提供例题答案/解析"
       },
       {
         "level": "warn",
         "chapter": "第三章 涉税专业服务程序、方法和内容",
         "section": "第四节 所得税纳税审核方法 · 题组1",
         "number": "35",
-        "reason": "例题无答案解析文本"
+        "reason": "对应题组答案区未提供例题答案/解析"
       },
       {
         "level": "warn",
         "chapter": "第三章 涉税专业服务程序、方法和内容",
         "section": "第四节 所得税纳税审核方法 · 题组1",
         "number": "36",
-        "reason": "例题无答案解析文本"
+        "reason": "对应题组答案区未提供例题答案/解析"
       },
       {
         "level": "warn",
         "chapter": "第三章 涉税专业服务程序、方法和内容",
         "section": "第四节 所得税纳税审核方法 · 题组1",
         "number": "44",
-        "reason": "例题无答案解析文本"
+        "reason": "对应题组答案区未提供例题答案/解析"
       },
       {
         "level": "warn",
         "chapter": "第三章 涉税专业服务程序、方法和内容",
         "section": "第四节 所得税纳税审核方法 · 题组1",
         "number": "48",
-        "reason": "例题无答案解析文本"
+        "reason": "对应题组答案区未提供例题答案/解析"
       },
       {
         "level": "warn",
         "chapter": "第三章 涉税专业服务程序、方法和内容",
         "section": "第四节 所得税纳税审核方法 · 题组1",
         "number": "54",
-        "reason": "例题无答案解析文本"
+        "reason": "对应题组答案区未提供例题答案/解析"
       },
       {
         "level": "warn",
         "chapter": "第三章 涉税专业服务程序、方法和内容",
         "section": "第四节 所得税纳税审核方法 · 题组1",
         "number": "59",
-        "reason": "例题无答案解析文本"
+        "reason": "对应题组答案区未提供例题答案/解析"
       }
     ],
     "exactDuplicates": [],
@@ -1960,7 +2748,76 @@
   "passed": true,
   "financeCount": 1103,
   "practiceCount": 290,
-  "practiceAnswerable": 82,
+  "practiceAnswerable": 125,
   "practiceExamples": 95,
-  "practiceStudyItems": 113
+  "practiceStudyItems": 113,
+  "issues": [],
+  "warnings": [
+    {
+      "level": "warn",
+      "chapter": "第三章 涉税专业服务程序、方法和内容",
+      "section": "第四节 所得税纳税审核方法 · 题组1",
+      "number": "19",
+      "reason": "对应题组答案区未提供例题答案/解析"
+    },
+    {
+      "level": "warn",
+      "chapter": "第三章 涉税专业服务程序、方法和内容",
+      "section": "第四节 所得税纳税审核方法 · 题组1",
+      "number": "20",
+      "reason": "对应题组答案区未提供例题答案/解析"
+    },
+    {
+      "level": "warn",
+      "chapter": "第三章 涉税专业服务程序、方法和内容",
+      "section": "第四节 所得税纳税审核方法 · 题组1",
+      "number": "32",
+      "reason": "对应题组答案区未提供例题答案/解析"
+    },
+    {
+      "level": "warn",
+      "chapter": "第三章 涉税专业服务程序、方法和内容",
+      "section": "第四节 所得税纳税审核方法 · 题组1",
+      "number": "35",
+      "reason": "对应题组答案区未提供例题答案/解析"
+    },
+    {
+      "level": "warn",
+      "chapter": "第三章 涉税专业服务程序、方法和内容",
+      "section": "第四节 所得税纳税审核方法 · 题组1",
+      "number": "36",
+      "reason": "对应题组答案区未提供例题答案/解析"
+    },
+    {
+      "level": "warn",
+      "chapter": "第三章 涉税专业服务程序、方法和内容",
+      "section": "第四节 所得税纳税审核方法 · 题组1",
+      "number": "44",
+      "reason": "对应题组答案区未提供例题答案/解析"
+    },
+    {
+      "level": "warn",
+      "chapter": "第三章 涉税专业服务程序、方法和内容",
+      "section": "第四节 所得税纳税审核方法 · 题组1",
+      "number": "48",
+      "reason": "对应题组答案区未提供例题答案/解析"
+    },
+    {
+      "level": "warn",
+      "chapter": "第三章 涉税专业服务程序、方法和内容",
+      "section": "第四节 所得税纳税审核方法 · 题组1",
+      "number": "54",
+      "reason": "对应题组答案区未提供例题答案/解析"
+    },
+    {
+      "level": "warn",
+      "chapter": "第三章 涉税专业服务程序、方法和内容",
+      "section": "第四节 所得税纳税审核方法 · 题组1",
+      "number": "59",
+      "reason": "对应题组答案区未提供例题答案/解析"
+    }
+  ],
+  "exactDuplicates": [],
+  "adjacentSameStem": [],
+  "duplicateSkipped": 0
 }
