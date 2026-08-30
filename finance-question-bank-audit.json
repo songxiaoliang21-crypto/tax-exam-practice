@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-30T11:10:06.345478+00:00",
-  "version": "finance-2026-08-30-fix-ch1-7-examples",
+  "generatedAt": "2026-08-30T11:22:52.362139+00:00",
+  "version": "finance-2026-08-30-fix-ch1-7-examples-order",
   "sourceDir": "E:\\税务师题库\\财务与会计题库\\财务与会计题库第二批",
   "previousVersion": "finance-2026-08-30-fix-ch1-7-examples",
   "existingFileTotalBeforeMerge": 1393,
@@ -306,6 +306,11 @@
         "chapter": "第一章 财务管理概论和基础",
         "number": "1.20",
         "existingId": "财务与会计|第一章 财务管理概论和基础|1.20|例题"
+      },
+      {
+        "chapter": "第一章 财务管理概论和基础",
+        "number": "1.21",
+        "existingId": "财务与会计|第一章 财务管理概论和基础|1.21|例题"
       },
       {
         "chapter": "第一章 财务管理概论和基础",
@@ -1591,6 +1596,11 @@
         "chapter": "第五章 营运资金管理",
         "number": "5.27",
         "existingId": "财务与会计|第五章 营运资金管理|5.27|单选"
+      },
+      {
+        "chapter": "第五章 营运资金管理",
+        "number": "5.28",
+        "existingId": "财务与会计|第五章 营运资金管理|5.28|单选"
       },
       {
         "chapter": "第五章 营运资金管理",

@@ -1,11 +1,109 @@
 {
-  "version": "finance-2026-08-30-fix-ch1-7-examples",
+  "version": "finance-2026-08-30-fix-ch1-7-examples-order",
   "subject": "全科题库",
-  "source": "E:\\财务与会计题库; E:\\税务师题库\\财务与会计题库\\财务与会计题库第二批; E:\\税务师题库\\财务与会计题库\\财务与会计题库第二批; E:\\税务师题库\\财务与会计题库\\财务与会计题库第二批; E:\\税务师题库\\涉税服务实务题库; E:\\税务师题库\\涉税服务实务题库; E:\\税务师题库\\涉税服务实务题库; E:\\税务师题库\\涉税服务实务题库; E:\\税务师题库\\涉税服务实务题库; E:\\税务师题库\\涉税服务实务题库; E:\\税务师题库\\涉税服务实务题库; E:\\税务师题库\\涉税服务实务题库; E:\\税务师题库\\涉税服务实务题库; E:\\税务师题库\\涉税服务实务题库; E:\\税务师题库\\涉税服务实务题库; E:\\税务师题库\\财务与会计题库\\财务与会计题库第二批; E:\\税务师题库\\财务与会计题库\\财务与会计题库第二批",
+  "source": "E:\\财务与会计题库; E:\\税务师题库\\财务与会计题库\\财务与会计题库第二批; E:\\税务师题库\\财务与会计题库\\财务与会计题库第二批; E:\\税务师题库\\财务与会计题库\\财务与会计题库第二批; E:\\税务师题库\\涉税服务实务题库; E:\\税务师题库\\涉税服务实务题库; E:\\税务师题库\\涉税服务实务题库; E:\\税务师题库\\涉税服务实务题库; E:\\税务师题库\\涉税服务实务题库; E:\\税务师题库\\涉税服务实务题库; E:\\税务师题库\\涉税服务实务题库; E:\\税务师题库\\涉税服务实务题库; E:\\税务师题库\\涉税服务实务题库; E:\\税务师题库\\涉税服务实务题库; E:\\税务师题库\\涉税服务实务题库; E:\\税务师题库\\财务与会计题库\\财务与会计题库第二批; E:\\税务师题库\\财务与会计题库\\财务与会计题库第二批; E:\\税务师题库\\财务与会计题库\\财务与会计题库第二批",
   "count": 1393,
   "answerableCount": 1080,
   "examples": 228,
   "chapters": [
+    {
+      "chapter": "第一章 财务管理概论和基础",
+      "sourceFile": "第一章 财务管理概论和基础（财务与会计）.pdf",
+      "rawCount": 70,
+      "rawBlocks": 70,
+      "importedCount": 69,
+      "duplicateCount": 1,
+      "abnormalCount": 0,
+      "answerableItems": 60,
+      "examples": 10,
+      "studyItems": 0,
+      "caseParents": 0,
+      "caseChildren": 0
+    },
+    {
+      "chapter": "第二章 财务预测和财务预算",
+      "sourceFile": "第二章 财务预测和财务预算（财务与会计）.pdf",
+      "rawCount": 57,
+      "rawBlocks": 48,
+      "importedCount": 57,
+      "duplicateCount": 0,
+      "abnormalCount": 0,
+      "answerableItems": 48,
+      "examples": 9,
+      "studyItems": 0,
+      "caseParents": 3,
+      "caseChildren": 12
+    },
+    {
+      "chapter": "第三章 筹资与股利分配管理",
+      "sourceFile": "第三章 筹资与股利分配管理（财务与会计）.pdf",
+      "rawCount": 68,
+      "rawBlocks": 63,
+      "importedCount": 68,
+      "duplicateCount": 0,
+      "abnormalCount": 0,
+      "answerableItems": 54,
+      "examples": 14,
+      "studyItems": 0,
+      "caseParents": 3,
+      "caseChildren": 8
+    },
+    {
+      "chapter": "第四章 投资管理",
+      "sourceFile": "第四章 投资管理（财务与会计）.pdf",
+      "rawCount": 57,
+      "rawBlocks": 51,
+      "importedCount": 57,
+      "duplicateCount": 0,
+      "abnormalCount": 0,
+      "answerableItems": 42,
+      "examples": 15,
+      "studyItems": 0,
+      "caseParents": 2,
+      "caseChildren": 8
+    },
+    {
+      "chapter": "第五章 营运资金管理",
+      "sourceFile": "第五章 营运资金管理（财务与会计）.pdf",
+      "rawCount": 38,
+      "rawBlocks": 38,
+      "importedCount": 38,
+      "duplicateCount": 0,
+      "abnormalCount": 0,
+      "answerableItems": 32,
+      "examples": 7,
+      "studyItems": 0,
+      "caseParents": 0,
+      "caseChildren": 0
+    },
+    {
+      "chapter": "第六章 财务分析与评价",
+      "sourceFile": "第六章 财务分析与评价（财务与会计）.pdf",
+      "rawCount": 41,
+      "rawBlocks": 37,
+      "importedCount": 41,
+      "duplicateCount": 0,
+      "abnormalCount": 0,
+      "answerableItems": 39,
+      "examples": 2,
+      "studyItems": 0,
+      "caseParents": 2,
+      "caseChildren": 6
+    },
+    {
+      "chapter": "第七章 财务会计概论",
+      "sourceFile": "第七章  财务会计概论（财务与会计）.pdf",
+      "rawCount": 15,
+      "rawBlocks": 15,
+      "importedCount": 15,
+      "duplicateCount": 0,
+      "abnormalCount": 0,
+      "answerableItems": 15,
+      "examples": 0,
+      "studyItems": 0,
+      "caseParents": 0,
+      "caseChildren": 0
+    },
     {
       "chapter": "第一章 财务管理概论和基础",
       "sourceFile": "第一章 财务管理概论和基础（财务与会计）.pdf",
@@ -2670,8 +2768,8 @@
     }
   ],
   "audit": {
-    "generatedAt": "2026-08-30T11:10:06.345478+00:00",
-    "version": "finance-2026-08-30-fix-ch1-7-examples",
+    "generatedAt": "2026-08-30T11:22:52.362139+00:00",
+    "version": "finance-2026-08-30-fix-ch1-7-examples-order",
     "sourceDir": "E:\\税务师题库\\财务与会计题库\\财务与会计题库第二批",
     "previousVersion": "finance-2026-08-30-fix-ch1-7-examples",
     "existingFileTotalBeforeMerge": 1393,
@@ -2977,6 +3075,11 @@
           "chapter": "第一章 财务管理概论和基础",
           "number": "1.20",
           "existingId": "财务与会计|第一章 财务管理概论和基础|1.20|例题"
+        },
+        {
+          "chapter": "第一章 财务管理概论和基础",
+          "number": "1.21",
+          "existingId": "财务与会计|第一章 财务管理概论和基础|1.21|例题"
         },
         {
           "chapter": "第一章 财务管理概论和基础",
@@ -4262,6 +4365,11 @@
           "chapter": "第五章 营运资金管理",
           "number": "5.27",
           "existingId": "财务与会计|第五章 营运资金管理|5.27|单选"
+        },
+        {
+          "chapter": "第五章 营运资金管理",
+          "number": "5.28",
+          "existingId": "财务与会计|第五章 营运资金管理|5.28|单选"
         },
         {
           "chapter": "第五章 营运资金管理",
