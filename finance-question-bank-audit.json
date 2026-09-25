@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-25T11:25:49.519112+00:00",
+  "generatedAt": "2026-09-25T11:41:41.480164+00:00",
   "version": "finance-2026-09-25-replace-ch7-19",
   "sourceDir": "E:\\税务师题库\\财务与会计题库",
-  "previousVersion": "legal-2026-09-10-ch1-18",
+  "previousVersion": "finance-2026-09-25-replace-ch7-19",
   "replaceScope": {
     "subject": "财务与会计",
     "chapterMin": 7,
     "chapterMax": 19
   },
-  "oldTargetCount": 773,
+  "oldTargetCount": 765,
   "newTargetCount": 765,
   "totalItems": 1645,
   "answerableItems": 1331,

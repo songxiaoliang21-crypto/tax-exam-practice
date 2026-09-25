@@ -217,6 +217,8 @@
       align-items: start;
     }
     .question-title { font-size: 17px; line-height: 1.7; white-space: pre-wrap; }
+    .question-title .em-red, .answer-box .em-red, .case-box .em-red { color: #d40000; font-weight: 700; }
+    .question-title .em-bold, .answer-box .em-bold, .case-box .em-bold { font-weight: 700; }
     .case-box {
       margin: 12px 0;
       padding: 12px;
@@ -776,8 +778,8 @@ function renderQuestion(loadSaved = true) {
   $("questionMeta").textContent = `${practice.index + 1}/${practice.ids.length} · ${q.number} · ${q.type}`;
   $("practiceBar").style.width = pct(practice.index + 1, practice.ids.length);
   $("caseBox").classList.toggle("hide", !q.caseText);
-  $("caseBox").textContent = q.caseText || "";
-  $("questionStem").textContent = q.stem;
+  $("caseBox").innerHTML = q.caseTextHtml || escapeHtml(q.caseText || "").replace(/\n/g, "<br>");
+  $("questionStem").innerHTML = q.stemHtml || escapeHtml(q.stem).replace(/\n/g, "<br>");
   $("optionList").innerHTML = isAnswerable(q) ? Object.entries(q.options || {}).map(([k, v]) => {
     const chosen = practice.selected.has(k);
     const answer = normalizeAnswer(q.answer).includes(k);
@@ -802,7 +804,7 @@ function renderAnswer(q, a) {
   const box = $("answerBox");
   if (!isAnswerable(q)) {
     box.classList.add("show");
-    box.innerHTML = `<div>${q.answer ? `<b>正确答案</b>：${escapeHtml(q.answer).replace(/\n/g, "<br>")}<br>` : ""}<b>解析</b><br>${escapeHtml(q.analysis || "暂无解析").replace(/\n/g, "<br>")}</div>`;
+    box.innerHTML = `<div>${q.answer ? `<b>正确答案</b>：${escapeHtml(q.answer).replace(/\n/g, "<br>")}<br>` : ""}<b>解析</b><br>${q.analysisHtml || escapeHtml(q.analysis || "暂无解析").replace(/\n/g, "<br>")}</div>`;
     return;
   }
   if (!a.done) { box.classList.remove("show"); box.innerHTML = ""; return; }
@@ -810,7 +812,7 @@ function renderAnswer(q, a) {
   box.innerHTML = `<div class="${a.correct ? "answer-ok" : "answer-bad"}">${a.correct ? "回答正确" : "回答错误"}</div>
     <div>你的答案：${normalizeAnswer(a.lastAnswer) || "未选择"}</div>
     <div>正确答案：${normalizeAnswer(q.answer)}</div>
-    <div style="margin-top:8px"><b>解析</b><br>${escapeHtml(q.analysis || "暂无解析").replace(/\n/g, "<br>")}</div>`;
+    <div style="margin-top:8px"><b>解析</b><br>${q.analysisHtml || escapeHtml(q.analysis || "暂无解析").replace(/\n/g, "<br>")}</div>`;
 }
 function renderPracticeStats() {
   const list = practice.ids.map(id => questions.find(q => q.id === id)).filter(Boolean);
