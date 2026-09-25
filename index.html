@@ -1070,6 +1070,16 @@ async function seedPreloadedBank() {
   let added = 0, updated = 0, migrated = 0, removed = 0;
   const bankIds = new Set((bank.questions || []).map(q => q.id));
   const byStable = new Map(questions.map(q => [[q.subject, q.chapter, q.number, q.type].join("|"), q]));
+  const replaceScopes = Array.isArray(bank.replaceScopes)
+    ? bank.replaceScopes
+    : (bank.subject && bank.subject !== "全科题库" ? [{ subject: bank.subject }] : []);
+  const inReplaceScope = (q) => replaceScopes.some(scope => {
+    if (scope.subject && q.subject !== scope.subject) return false;
+    const order = chapterOrder(q.chapter);
+    if (Number.isFinite(scope.chapterMin) && order < scope.chapterMin) return false;
+    if (Number.isFinite(scope.chapterMax) && order > scope.chapterMax) return false;
+    return true;
+  });
   for (const q of bank.questions || []) {
     const stableKey = [q.subject, q.chapter, q.number, q.type].join("|");
     const old = questions.find(x => x.id === q.id) || byStable.get(stableKey);
@@ -1089,7 +1099,7 @@ async function seedPreloadedBank() {
     }
   }
   for (const old of [...questions]) {
-    if (old.subject === bank.subject && !bankIds.has(old.id)) {
+    if ((old.subject === bank.subject || inReplaceScope(old)) && !bankIds.has(old.id)) {
       await del(STORE.questions, old.id);
       const oldAttempt = attempts.find(a => a.questionId === old.id);
       if (oldAttempt) await del(STORE.attempts, old.id);

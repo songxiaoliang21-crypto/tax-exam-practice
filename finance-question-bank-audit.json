@@ -1,12 +1,19 @@
 {
-  "generatedAt": "2026-09-10T11:21:18.964108+00:00",
-  "version": "legal-2026-09-10-ch1-18",
-  "sourceDir": "E:\\税务师题库\\涉税服务法律题库",
+  "generatedAt": "2026-09-25T11:25:49.519112+00:00",
+  "version": "finance-2026-09-25-replace-ch7-19",
+  "sourceDir": "E:\\税务师题库\\财务与会计题库",
   "previousVersion": "legal-2026-09-10-ch1-18",
-  "totalItems": 1653,
-  "answerableItems": 1340,
-  "examples": 228,
-  "studyItems": 129,
+  "replaceScope": {
+    "subject": "财务与会计",
+    "chapterMin": 7,
+    "chapterMax": 19
+  },
+  "oldTargetCount": 773,
+  "newTargetCount": 765,
+  "totalItems": 1645,
+  "answerableItems": 1331,
+  "examples": 234,
+  "studyItems": 124,
   "chapters": [
     {
       "chapter": "第一章 财务管理概论和基础",
@@ -93,20 +100,6 @@
       "caseChildren": 6
     },
     {
-      "chapter": "第七章 财务会计概论",
-      "sourceFile": "第七章  财务会计概论（财务与会计）.pdf",
-      "rawCount": 15,
-      "rawBlocks": 15,
-      "importedCount": 15,
-      "duplicateCount": 0,
-      "abnormalCount": 0,
-      "answerableItems": 15,
-      "examples": 0,
-      "studyItems": 0,
-      "caseParents": 0,
-      "caseChildren": 0
-    },
-    {
       "chapter": "第一章 财务管理概论和基础",
       "sourceFile": "第一章 财务管理概论和基础（财务与会计）.pdf",
       "rawCount": 70,
@@ -191,20 +184,6 @@
       "caseChildren": 6
     },
     {
-      "chapter": "第七章 财务会计概论",
-      "sourceFile": "第七章  财务会计概论（财务与会计）.pdf",
-      "rawCount": 15,
-      "rawBlocks": 15,
-      "importedCount": 15,
-      "duplicateCount": 0,
-      "abnormalCount": 0,
-      "answerableItems": 15,
-      "examples": 0,
-      "studyItems": 0,
-      "caseParents": 0,
-      "caseChildren": 0
-    },
-    {
       "chapter": "第一章 财务管理概论和基础",
       "sourceFile": "第一章 财务管理概论和基础（财务与会计）.pdf",
       "rawCount": 70,
@@ -287,20 +266,6 @@
       "studyItems": 0,
       "caseParents": 2,
       "caseChildren": 6
-    },
-    {
-      "chapter": "第七章 财务会计概论",
-      "sourceFile": "第七章  财务会计概论（财务与会计）.pdf",
-      "rawCount": 15,
-      "rawBlocks": 15,
-      "importedCount": 15,
-      "duplicateCount": 0,
-      "abnormalCount": 0,
-      "answerableItems": 15,
-      "examples": 0,
-      "studyItems": 0,
-      "caseParents": 0,
-      "caseChildren": 0
     },
     {
       "chapter": "第一章 财务管理概论和基础",
@@ -553,123 +518,6 @@
       "studyItems": 0,
       "caseParents": 2,
       "caseChildren": 6
-    },
-    {
-      "file": "第七章  财务会计概论（财务与会计）.pdf",
-      "chapter": "第七章 财务会计概论",
-      "rawBlocks": 15,
-      "rawAnswerableBlocks": 15,
-      "importedItems": 15,
-      "answerableItems": 15,
-      "examples": 0
-    },
-    {
-      "file": "第八章 流动资产（一）（财务与会计）.pdf",
-      "chapter": "第八章 流动资产（一）",
-      "rawBlocks": 38,
-      "rawAnswerableBlocks": 38,
-      "importedItems": 38,
-      "answerableItems": 38,
-      "examples": 0
-    },
-    {
-      "file": "第九章 流动资产（二）（财务与会计）.pdf",
-      "chapter": "第九章 流动资产（二）",
-      "rawBlocks": 68,
-      "rawAnswerableBlocks": 68,
-      "importedItems": 68,
-      "answerableItems": 68,
-      "examples": 0
-    },
-    {
-      "file": "第十章 非流动资产（一）（财务与会计）.pdf",
-      "chapter": "第十章 非流动资产（一）",
-      "rawBlocks": 101,
-      "rawAnswerableBlocks": 101,
-      "importedItems": 101,
-      "answerableItems": 101,
-      "examples": 0
-    },
-    {
-      "file": "第十一章 非流动资产（二）（财务与会计）.pdf",
-      "chapter": "第十一章 非流动资产（二）",
-      "rawBlocks": 63,
-      "rawAnswerableBlocks": 63,
-      "importedItems": 77,
-      "answerableItems": 77,
-      "examples": 0
-    },
-    {
-      "file": "第十二章 流动负债（财务与会计）.pdf",
-      "chapter": "第十二章 流动负债",
-      "rawBlocks": 48,
-      "rawAnswerableBlocks": 48,
-      "importedItems": 54,
-      "answerableItems": 54,
-      "examples": 0
-    },
-    {
-      "file": "第十三章 非流动负债（财务与会计）.pdf",
-      "chapter": "第十三章 非流动负债",
-      "rawBlocks": 101,
-      "rawAnswerableBlocks": 78,
-      "importedItems": 112,
-      "answerableItems": 88,
-      "examples": 18
-    },
-    {
-      "file": "第十四章 所有者权益（财务与会计）.pdf",
-      "chapter": "第十四章 所有者权益",
-      "rawBlocks": 38,
-      "rawAnswerableBlocks": 38,
-      "importedItems": 38,
-      "answerableItems": 38,
-      "examples": 0
-    },
-    {
-      "file": "第十五章 收入、费用、利润和外币交易（财务与会计）.pdf",
-      "chapter": "第十五章 收入、费用、利润和外币交易",
-      "rawBlocks": 111,
-      "rawAnswerableBlocks": 83,
-      "importedItems": 118,
-      "answerableItems": 82,
-      "examples": 28
-    },
-    {
-      "file": "第十六章 所得税（财务与会计）.pdf",
-      "chapter": "第十六章 所得税",
-      "rawBlocks": 52,
-      "rawAnswerableBlocks": 28,
-      "importedItems": 72,
-      "answerableItems": 46,
-      "examples": 24
-    },
-    {
-      "file": "第十七章 会计调整（财务与会计）.pdf",
-      "chapter": "第十七章 会计调整",
-      "rawBlocks": 36,
-      "rawAnswerableBlocks": 30,
-      "importedItems": 36,
-      "answerableItems": 30,
-      "examples": 6
-    },
-    {
-      "file": "第十八章 财务报告（财务与会计）.pdf",
-      "chapter": "第十八章 财务报告",
-      "rawBlocks": 33,
-      "rawAnswerableBlocks": 33,
-      "importedItems": 33,
-      "answerableItems": 33,
-      "examples": 0
-    },
-    {
-      "file": "第十九章 企业破产清算会计（财务与会计）.pdf",
-      "chapter": "第十九章 企业破产清算会计",
-      "rawBlocks": 11,
-      "rawAnswerableBlocks": 11,
-      "importedItems": 11,
-      "answerableItems": 11,
-      "examples": 0
     },
     {
       "subject": "涉税服务实务",
@@ -2947,220 +2795,632 @@
       "answerableItems": 11,
       "examples": 0,
       "studyItems": 0
-    }
-  ],
-  "legalChapters": [
-    {
-      "subject": "涉税服务法律",
-      "file": "第一章 行政法基本理论（涉税服务法律）.pdf",
-      "chapter": "第一章 行政法基本理论",
-      "rawBlocks": 9,
-      "importedItems": 9,
-      "answerableItems": 9,
-      "examples": 0,
-      "studyItems": 0,
-      "orphanAnswers": []
     },
     {
-      "subject": "涉税服务法律",
-      "file": "第二章 行政许可法律制度（涉税服务法律）.pdf",
-      "chapter": "第二章 行政许可法律制度",
-      "rawBlocks": 8,
-      "importedItems": 8,
-      "answerableItems": 8,
+      "subject": "财务与会计",
+      "chapter": "第七章 财务会计概论",
+      "sourceFile": "第七章  财务会计概论(财务与会计）.pdf",
+      "rawCount": 15,
+      "rawBlocks": 15,
+      "importedCount": 15,
+      "answerableItems": 15,
       "examples": 0,
       "studyItems": 0,
-      "orphanAnswers": []
+      "caseParents": 0,
+      "caseChildren": 0
     },
     {
-      "subject": "涉税服务法律",
-      "file": "第三章 行政处罚法律制度 第1-4节（涉税服务法律）.pdf",
-      "chapter": "第三章 行政处罚法律制度 第1-4节",
-      "rawBlocks": 18,
-      "importedItems": 18,
-      "answerableItems": 18,
+      "subject": "财务与会计",
+      "chapter": "第八章 流动资产（一）",
+      "sourceFile": "第八章  流动资产（一）(财务与会计）.pdf",
+      "rawCount": 29,
+      "rawBlocks": 29,
+      "importedCount": 29,
+      "answerableItems": 29,
       "examples": 0,
       "studyItems": 0,
-      "orphanAnswers": []
+      "caseParents": 0,
+      "caseChildren": 0
     },
     {
-      "subject": "涉税服务法律",
-      "file": "第四章  行政强制法律制度（涉税服务法律）.pdf",
-      "chapter": "第四章 行政强制法律制度",
-      "rawBlocks": 18,
-      "importedItems": 18,
-      "answerableItems": 18,
+      "subject": "财务与会计",
+      "chapter": "第九章 流动资产（二）",
+      "sourceFile": "第九章  流动资产（二）(财务与会计）.pdf",
+      "rawCount": 68,
+      "rawBlocks": 68,
+      "importedCount": 68,
+      "answerableItems": 68,
       "examples": 0,
       "studyItems": 0,
-      "orphanAnswers": []
+      "caseParents": 0,
+      "caseChildren": 0
     },
     {
-      "subject": "涉税服务法律",
-      "file": "第五章 行政复议法律制度（涉税服务法律）.pdf",
-      "chapter": "第五章 行政复议法律制度",
-      "rawBlocks": 8,
-      "importedItems": 8,
-      "answerableItems": 8,
+      "subject": "财务与会计",
+      "chapter": "第十章 非流动资产（一）",
+      "sourceFile": "第十章 非流动资产（一）(财务与会计）.pdf",
+      "rawCount": 101,
+      "rawBlocks": 101,
+      "importedCount": 101,
+      "answerableItems": 101,
       "examples": 0,
       "studyItems": 0,
-      "orphanAnswers": []
+      "caseParents": 0,
+      "caseChildren": 0
     },
     {
-      "subject": "涉税服务法律",
-      "file": "第六章 行政诉讼法律制度（涉税服务法律）.pdf",
-      "chapter": "第六章 行政诉讼法律制度",
-      "rawBlocks": 18,
-      "importedItems": 18,
-      "answerableItems": 18,
+      "subject": "财务与会计",
+      "chapter": "第十一章 非流动资产（二）",
+      "sourceFile": "第十一章 非流动资产（二）(财务与会计）.pdf",
+      "rawCount": 68,
+      "rawBlocks": 54,
+      "importedCount": 68,
+      "answerableItems": 68,
       "examples": 0,
       "studyItems": 0,
-      "orphanAnswers": []
+      "caseParents": 4,
+      "caseChildren": 18
     },
     {
-      "subject": "涉税服务法律",
-      "file": "第七章 民法总论（涉税服务法律）.pdf",
-      "chapter": "第七章 民法总论",
-      "rawBlocks": 19,
-      "importedItems": 19,
-      "answerableItems": 19,
+      "subject": "财务与会计",
+      "chapter": "第十二章 流动负债",
+      "sourceFile": "第十二章 流动负债 (财务与会计）.pdf",
+      "rawCount": 54,
+      "rawBlocks": 48,
+      "importedCount": 54,
+      "answerableItems": 54,
       "examples": 0,
       "studyItems": 0,
-      "orphanAnswers": []
+      "caseParents": 2,
+      "caseChildren": 8
     },
     {
-      "subject": "涉税服务法律",
-      "file": "第八章 物权法律制度（涉税服务法律）.pdf",
-      "chapter": "第八章 物权法律制度",
-      "rawBlocks": 13,
-      "importedItems": 13,
-      "answerableItems": 13,
+      "subject": "财务与会计",
+      "chapter": "第十三章 非流动负债",
+      "sourceFile": "第十三章 非流动负债(财务与会计）.pdf",
+      "rawCount": 63,
+      "rawBlocks": 60,
+      "importedCount": 63,
+      "answerableItems": 51,
+      "examples": 12,
+      "studyItems": 0,
+      "caseParents": 1,
+      "caseChildren": 4
+    },
+    {
+      "subject": "财务与会计",
+      "chapter": "第十四章 所有者权益",
+      "sourceFile": "第十四章 所有者权益(财务与会计）.pdf",
+      "rawCount": 38,
+      "rawBlocks": 38,
+      "importedCount": 38,
+      "answerableItems": 38,
       "examples": 0,
       "studyItems": 0,
-      "orphanAnswers": []
+      "caseParents": 0,
+      "caseChildren": 0
     },
     {
-      "subject": "涉税服务法律",
-      "file": "第九章 债权法律制度（涉税服务法律）.pdf",
-      "chapter": "第九章 债权法律制度",
-      "rawBlocks": 53,
-      "importedItems": 53,
-      "answerableItems": 53,
+      "subject": "财务与会计",
+      "chapter": "第十五章 收入、费用、利润和外币交易",
+      "sourceFile": "第十五章 收入、费用、利润和外币交易(财务与会计）.pdf",
+      "rawCount": 118,
+      "rawBlocks": 111,
+      "importedCount": 118,
+      "answerableItems": 82,
+      "examples": 28,
+      "studyItems": 8,
+      "caseParents": 2,
+      "caseChildren": 9
+    },
+    {
+      "subject": "财务与会计",
+      "chapter": "第十五章 非货币性资产交换、租赁和债务重组",
+      "sourceFile": "第十五章 非货币性资产交换、租赁和债务重组(财务与会计）.pdf",
+      "rawCount": 59,
+      "rawBlocks": 51,
+      "importedCount": 59,
+      "answerableItems": 46,
+      "examples": 12,
+      "studyItems": 1,
+      "caseParents": 2,
+      "caseChildren": 10
+    },
+    {
+      "subject": "财务与会计",
+      "chapter": "第十六章 所得税",
+      "sourceFile": "第十六章 所得税(财务与会计）.pdf",
+      "rawCount": 72,
+      "rawBlocks": 52,
+      "importedCount": 72,
+      "answerableItems": 46,
+      "examples": 24,
+      "studyItems": 2,
+      "caseParents": 5,
+      "caseChildren": 25
+    },
+    {
+      "subject": "财务与会计",
+      "chapter": "第十七章 会计调整",
+      "sourceFile": "第十七章 会计调整(财务与会计）.pdf",
+      "rawCount": 36,
+      "rawBlocks": 36,
+      "importedCount": 36,
+      "answerableItems": 30,
+      "examples": 6,
+      "studyItems": 0,
+      "caseParents": 0,
+      "caseChildren": 0
+    },
+    {
+      "subject": "财务与会计",
+      "chapter": "第十八章 财务报告",
+      "sourceFile": "第十八章 财务报告(财务与会计）.pdf",
+      "rawCount": 33,
+      "rawBlocks": 33,
+      "importedCount": 33,
+      "answerableItems": 33,
       "examples": 0,
       "studyItems": 0,
-      "orphanAnswers": []
+      "caseParents": 0,
+      "caseChildren": 0
     },
     {
-      "subject": "涉税服务法律",
-      "file": "第十章 婚姻家庭与继承法（涉税服务法律）.pdf",
-      "chapter": "第十章 婚姻家庭与继承法",
-      "rawBlocks": 9,
-      "importedItems": 9,
-      "answerableItems": 9,
-      "examples": 0,
-      "studyItems": 0,
-      "orphanAnswers": []
-    },
-    {
-      "subject": "涉税服务法律",
-      "file": "第十一章 个人独资企业法（涉税服务法律）.pdf",
-      "chapter": "第十一章 个人独资企业法",
-      "rawBlocks": 3,
-      "importedItems": 3,
-      "answerableItems": 3,
-      "examples": 0,
-      "studyItems": 0,
-      "orphanAnswers": []
-    },
-    {
-      "subject": "涉税服务法律",
-      "file": "第十二章 合伙企业法（涉税服务法律）.pdf",
-      "chapter": "第十二章 合伙企业法",
-      "rawBlocks": 13,
-      "importedItems": 13,
-      "answerableItems": 13,
-      "examples": 0,
-      "studyItems": 0,
-      "orphanAnswers": []
-    },
-    {
-      "subject": "涉税服务法律",
-      "file": "第十三章 公司法（涉税服务法律）.pdf",
-      "chapter": "第十三章 公司法",
-      "rawBlocks": 7,
-      "importedItems": 7,
-      "answerableItems": 7,
-      "examples": 0,
-      "studyItems": 0,
-      "orphanAnswers": []
-    },
-    {
-      "subject": "涉税服务法律",
-      "file": "第十四章 破产法（涉税服务法律）.pdf",
-      "chapter": "第十四章 破产法",
-      "rawBlocks": 16,
-      "importedItems": 16,
-      "answerableItems": 16,
-      "examples": 0,
-      "studyItems": 0,
-      "orphanAnswers": []
-    },
-    {
-      "subject": "涉税服务法律",
-      "file": "第十五章 电子商务法（涉税服务法律）.pdf",
-      "chapter": "第十五章 电子商务法",
-      "rawBlocks": 2,
-      "importedItems": 2,
-      "answerableItems": 2,
-      "examples": 0,
-      "studyItems": 0,
-      "orphanAnswers": []
-    },
-    {
-      "subject": "涉税服务法律",
-      "file": "第十六章 民事诉讼法（涉税服务法律）.pdf",
-      "chapter": "第十六章 民事诉讼法",
-      "rawBlocks": 8,
-      "importedItems": 8,
-      "answerableItems": 8,
-      "examples": 0,
-      "studyItems": 0,
-      "orphanAnswers": []
-    },
-    {
-      "subject": "涉税服务法律",
-      "file": "第十七章 刑法（习题纯享）.pdf",
-      "chapter": "第十七章 刑法",
-      "rawBlocks": 27,
-      "importedItems": 27,
-      "answerableItems": 27,
-      "examples": 0,
-      "studyItems": 0,
-      "orphanAnswers": []
-    },
-    {
-      "subject": "涉税服务法律",
-      "file": "第十八章 刑事诉讼法（涉税服务法律）.pdf",
-      "chapter": "第十八章 刑事诉讼法",
+      "subject": "财务与会计",
+      "chapter": "第十九章 企业破产清算会计",
+      "sourceFile": "第十九章 企业破产清算会计(财务与会计）.pdf",
+      "rawCount": 11,
       "rawBlocks": 11,
-      "importedItems": 11,
+      "importedCount": 11,
       "answerableItems": 11,
       "examples": 0,
       "studyItems": 0,
-      "orphanAnswers": []
+      "caseParents": 0,
+      "caseChildren": 0
     }
   ],
-  "legalCount": 260,
-  "legalAnswerable": 260,
-  "legalExamples": 0,
-  "legalStudyItems": 0,
+  "financeReplacementChapters": [
+    {
+      "subject": "财务与会计",
+      "chapter": "第七章 财务会计概论",
+      "sourceFile": "第七章  财务会计概论(财务与会计）.pdf",
+      "rawCount": 15,
+      "rawBlocks": 15,
+      "importedCount": 15,
+      "answerableItems": 15,
+      "examples": 0,
+      "studyItems": 0,
+      "caseParents": 0,
+      "caseChildren": 0
+    },
+    {
+      "subject": "财务与会计",
+      "chapter": "第八章 流动资产（一）",
+      "sourceFile": "第八章  流动资产（一）(财务与会计）.pdf",
+      "rawCount": 29,
+      "rawBlocks": 29,
+      "importedCount": 29,
+      "answerableItems": 29,
+      "examples": 0,
+      "studyItems": 0,
+      "caseParents": 0,
+      "caseChildren": 0
+    },
+    {
+      "subject": "财务与会计",
+      "chapter": "第九章 流动资产（二）",
+      "sourceFile": "第九章  流动资产（二）(财务与会计）.pdf",
+      "rawCount": 68,
+      "rawBlocks": 68,
+      "importedCount": 68,
+      "answerableItems": 68,
+      "examples": 0,
+      "studyItems": 0,
+      "caseParents": 0,
+      "caseChildren": 0
+    },
+    {
+      "subject": "财务与会计",
+      "chapter": "第十章 非流动资产（一）",
+      "sourceFile": "第十章 非流动资产（一）(财务与会计）.pdf",
+      "rawCount": 101,
+      "rawBlocks": 101,
+      "importedCount": 101,
+      "answerableItems": 101,
+      "examples": 0,
+      "studyItems": 0,
+      "caseParents": 0,
+      "caseChildren": 0
+    },
+    {
+      "subject": "财务与会计",
+      "chapter": "第十一章 非流动资产（二）",
+      "sourceFile": "第十一章 非流动资产（二）(财务与会计）.pdf",
+      "rawCount": 68,
+      "rawBlocks": 54,
+      "importedCount": 68,
+      "answerableItems": 68,
+      "examples": 0,
+      "studyItems": 0,
+      "caseParents": 4,
+      "caseChildren": 18
+    },
+    {
+      "subject": "财务与会计",
+      "chapter": "第十二章 流动负债",
+      "sourceFile": "第十二章 流动负债 (财务与会计）.pdf",
+      "rawCount": 54,
+      "rawBlocks": 48,
+      "importedCount": 54,
+      "answerableItems": 54,
+      "examples": 0,
+      "studyItems": 0,
+      "caseParents": 2,
+      "caseChildren": 8
+    },
+    {
+      "subject": "财务与会计",
+      "chapter": "第十三章 非流动负债",
+      "sourceFile": "第十三章 非流动负债(财务与会计）.pdf",
+      "rawCount": 63,
+      "rawBlocks": 60,
+      "importedCount": 63,
+      "answerableItems": 51,
+      "examples": 12,
+      "studyItems": 0,
+      "caseParents": 1,
+      "caseChildren": 4
+    },
+    {
+      "subject": "财务与会计",
+      "chapter": "第十四章 所有者权益",
+      "sourceFile": "第十四章 所有者权益(财务与会计）.pdf",
+      "rawCount": 38,
+      "rawBlocks": 38,
+      "importedCount": 38,
+      "answerableItems": 38,
+      "examples": 0,
+      "studyItems": 0,
+      "caseParents": 0,
+      "caseChildren": 0
+    },
+    {
+      "subject": "财务与会计",
+      "chapter": "第十五章 收入、费用、利润和外币交易",
+      "sourceFile": "第十五章 收入、费用、利润和外币交易(财务与会计）.pdf",
+      "rawCount": 118,
+      "rawBlocks": 111,
+      "importedCount": 118,
+      "answerableItems": 82,
+      "examples": 28,
+      "studyItems": 8,
+      "caseParents": 2,
+      "caseChildren": 9
+    },
+    {
+      "subject": "财务与会计",
+      "chapter": "第十五章 非货币性资产交换、租赁和债务重组",
+      "sourceFile": "第十五章 非货币性资产交换、租赁和债务重组(财务与会计）.pdf",
+      "rawCount": 59,
+      "rawBlocks": 51,
+      "importedCount": 59,
+      "answerableItems": 46,
+      "examples": 12,
+      "studyItems": 1,
+      "caseParents": 2,
+      "caseChildren": 10
+    },
+    {
+      "subject": "财务与会计",
+      "chapter": "第十六章 所得税",
+      "sourceFile": "第十六章 所得税(财务与会计）.pdf",
+      "rawCount": 72,
+      "rawBlocks": 52,
+      "importedCount": 72,
+      "answerableItems": 46,
+      "examples": 24,
+      "studyItems": 2,
+      "caseParents": 5,
+      "caseChildren": 25
+    },
+    {
+      "subject": "财务与会计",
+      "chapter": "第十七章 会计调整",
+      "sourceFile": "第十七章 会计调整(财务与会计）.pdf",
+      "rawCount": 36,
+      "rawBlocks": 36,
+      "importedCount": 36,
+      "answerableItems": 30,
+      "examples": 6,
+      "studyItems": 0,
+      "caseParents": 0,
+      "caseChildren": 0
+    },
+    {
+      "subject": "财务与会计",
+      "chapter": "第十八章 财务报告",
+      "sourceFile": "第十八章 财务报告(财务与会计）.pdf",
+      "rawCount": 33,
+      "rawBlocks": 33,
+      "importedCount": 33,
+      "answerableItems": 33,
+      "examples": 0,
+      "studyItems": 0,
+      "caseParents": 0,
+      "caseChildren": 0
+    },
+    {
+      "subject": "财务与会计",
+      "chapter": "第十九章 企业破产清算会计",
+      "sourceFile": "第十九章 企业破产清算会计(财务与会计）.pdf",
+      "rawCount": 11,
+      "rawBlocks": 11,
+      "importedCount": 11,
+      "answerableItems": 11,
+      "examples": 0,
+      "studyItems": 0,
+      "caseParents": 0,
+      "caseChildren": 0
+    }
+  ],
+  "caseParentCount": 16,
+  "caseChildren": {
+    "第十一章 非流动资产（二）|48": [
+      "48（1）",
+      "48（2）",
+      "48（3）",
+      "48（4）"
+    ],
+    "第十一章 非流动资产（二）|49": [
+      "49（1）",
+      "49（2）",
+      "49（3）",
+      "49（4）"
+    ],
+    "第十一章 非流动资产（二）|53": [
+      "53（1）",
+      "53（2）",
+      "53（3）",
+      "53（4）"
+    ],
+    "第十一章 非流动资产（二）|54": [
+      "54（1）",
+      "54（2）",
+      "54（3）",
+      "54（4）",
+      "54（5）",
+      "54（6）"
+    ],
+    "第十二章 流动负债|41": [
+      "41（1）",
+      "41（2）",
+      "41（3）",
+      "41（4）"
+    ],
+    "第十二章 流动负债|42": [
+      "42（1）",
+      "42（2）",
+      "42（3）",
+      "42（4）"
+    ],
+    "第十三章 非流动负债|21": [
+      "21（1）",
+      "21（2）",
+      "21（3）",
+      "21（4）"
+    ],
+    "第十五章 收入、费用、利润和外币交易|15.35": [
+      "15.35（1）",
+      "15.35（2）",
+      "15.35（3）",
+      "15.35（4）",
+      "15.35（5）",
+      "15.35（6）"
+    ],
+    "第十五章 收入、费用、利润和外币交易|15.62": [
+      "15.62（1）",
+      "15.62（2）",
+      "15.62（3）"
+    ],
+    "第十五章 非货币性资产交换、租赁和债务重组|50": [
+      "50（1）",
+      "50（2）",
+      "50（3）",
+      "50（4）"
+    ],
+    "第十五章 非货币性资产交换、租赁和债务重组|51": [
+      "51（1）",
+      "51（2）",
+      "51（3）",
+      "51（4）",
+      "51（5）",
+      "51（6）"
+    ],
+    "第十六章 所得税|16.48": [
+      "16.48（1）",
+      "16.48（2）",
+      "16.48（3）",
+      "16.48（4）",
+      "16.48（5）",
+      "16.48（6）"
+    ],
+    "第十六章 所得税|16.49": [
+      "16.49（1）",
+      "16.49（2）",
+      "16.49（3）",
+      "16.49（4）",
+      "16.49（5）",
+      "16.49（6）"
+    ],
+    "第十六章 所得税|16.50": [
+      "16.50（1）",
+      "16.50（2）",
+      "16.50（3）",
+      "16.50（4）",
+      "16.50（5）",
+      "16.50（6）"
+    ],
+    "第十六章 所得税|16.51": [
+      "16.51（1）",
+      "16.51（3）"
+    ],
+    "第十六章 所得税|16.52": [
+      "16.52（2）",
+      "16.52（3）",
+      "16.52（4）",
+      "16.52（5）",
+      "16.52（6）"
+    ]
+  },
+  "preservedHashUnchanged": true,
   "validation": {
     "issues": [],
-    "warnings": [],
-    "adjacentSameStem": [],
-    "preservedSubjectsUnchanged": true,
+    "warnings": [
+      {
+        "level": "warn",
+        "chapter": "第八章 流动资产（一）",
+        "number": "8.27",
+        "reason": "相邻题干完全相同，已保留待人工确认",
+        "previous": "8.26"
+      },
+      {
+        "level": "warn",
+        "chapter": "第九章 流动资产（二）",
+        "number": "2",
+        "reason": "相邻题干完全相同，已保留待人工确认",
+        "previous": "1"
+      },
+      {
+        "level": "warn",
+        "chapter": "第十二章 流动负债",
+        "number": "3",
+        "reason": "相邻题干完全相同，已保留待人工确认",
+        "previous": "2"
+      },
+      {
+        "level": "warn",
+        "chapter": "第十二章 流动负债",
+        "number": "46",
+        "reason": "相邻题干完全相同，已保留待人工确认",
+        "previous": "45"
+      },
+      {
+        "level": "warn",
+        "chapter": "第十二章 流动负债",
+        "number": "47",
+        "reason": "相邻题干完全相同，已保留待人工确认",
+        "previous": "46"
+      },
+      {
+        "level": "warn",
+        "chapter": "第十四章 所有者权益",
+        "number": "27",
+        "reason": "相邻题干完全相同，已保留待人工确认",
+        "previous": "26"
+      },
+      {
+        "level": "warn",
+        "chapter": "第十七章 会计调整",
+        "number": "17.2",
+        "reason": "相邻题干完全相同，已保留待人工确认",
+        "previous": "17.1"
+      },
+      {
+        "level": "warn",
+        "chapter": "第十七章 会计调整",
+        "number": "17.5",
+        "reason": "相邻题干完全相同，已保留待人工确认",
+        "previous": "17.4"
+      },
+      {
+        "level": "warn",
+        "chapter": "第十七章 会计调整",
+        "number": "17.26",
+        "reason": "相邻题干完全相同，已保留待人工确认",
+        "previous": "17.25"
+      },
+      {
+        "level": "warn",
+        "chapter": "第十八章 财务报告",
+        "number": "18.33",
+        "reason": "相邻题干完全相同，已保留待人工确认",
+        "previous": "18.32"
+      }
+    ],
     "passed": true
   },
   "issues": [],
-  "warnings": [],
+  "warnings": [
+    {
+      "level": "warn",
+      "chapter": "第八章 流动资产（一）",
+      "number": "8.27",
+      "reason": "相邻题干完全相同，已保留待人工确认",
+      "previous": "8.26"
+    },
+    {
+      "level": "warn",
+      "chapter": "第九章 流动资产（二）",
+      "number": "2",
+      "reason": "相邻题干完全相同，已保留待人工确认",
+      "previous": "1"
+    },
+    {
+      "level": "warn",
+      "chapter": "第十二章 流动负债",
+      "number": "3",
+      "reason": "相邻题干完全相同，已保留待人工确认",
+      "previous": "2"
+    },
+    {
+      "level": "warn",
+      "chapter": "第十二章 流动负债",
+      "number": "46",
+      "reason": "相邻题干完全相同，已保留待人工确认",
+      "previous": "45"
+    },
+    {
+      "level": "warn",
+      "chapter": "第十二章 流动负债",
+      "number": "47",
+      "reason": "相邻题干完全相同，已保留待人工确认",
+      "previous": "46"
+    },
+    {
+      "level": "warn",
+      "chapter": "第十四章 所有者权益",
+      "number": "27",
+      "reason": "相邻题干完全相同，已保留待人工确认",
+      "previous": "26"
+    },
+    {
+      "level": "warn",
+      "chapter": "第十七章 会计调整",
+      "number": "17.2",
+      "reason": "相邻题干完全相同，已保留待人工确认",
+      "previous": "17.1"
+    },
+    {
+      "level": "warn",
+      "chapter": "第十七章 会计调整",
+      "number": "17.5",
+      "reason": "相邻题干完全相同，已保留待人工确认",
+      "previous": "17.4"
+    },
+    {
+      "level": "warn",
+      "chapter": "第十七章 会计调整",
+      "number": "17.26",
+      "reason": "相邻题干完全相同，已保留待人工确认",
+      "previous": "17.25"
+    },
+    {
+      "level": "warn",
+      "chapter": "第十八章 财务报告",
+      "number": "18.33",
+      "reason": "相邻题干完全相同，已保留待人工确认",
+      "previous": "18.32"
+    }
+  ],
   "passed": true
 }
